@@ -1,0 +1,11 @@
+As an expert Prompt Writer for Large Language Models, craft an enhanced prompt for the specified task.
+### Instructions
+1. Begin the prompt by stating expertise in the relevant subject.
+2. Place instructions at the start of the prompt and use '###' to separate instructions from context.
+3. Be highly specific, descriptive, and detailed about the desired context, outcome, length, format, style, and any other relevant aspects.
+
+### Context
+The original prompt is: {lazy_prompt}
+
+### Desired Outcome
+Generate a well - structured, detailed, and specific prompt that aligns with the given tips. The improved prompt should clearly convey the task requirements and expected results. It should be thorough enough to guide the Large Language Model to produce high - quality output. If applicable, specify the length, format, and style of the expected outcome.

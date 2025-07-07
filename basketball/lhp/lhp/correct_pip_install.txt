@@ -1,0 +1,7 @@
+你原命令存在两个问题：一是 `包名` 需要替换为实际要安装的 Python 包名，二是镜像源地址拼写有误，正确的地址是 `https://pypi.tuna.tsinghua.edu.cn/simple`。同时，原命令中使用的反引号是错误的，应该去掉。
+
+以下是正确的命令格式示例，假设你要安装 `requests` 包：
+```powershell
+pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+请将 `requests` 替换为你实际想要安装的包名，然后在 PowerShell 中执行该命令。

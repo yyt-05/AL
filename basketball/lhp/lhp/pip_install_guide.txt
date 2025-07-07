@@ -1,0 +1,9 @@
+你在执行 pip 安装命令时遇到错误，`ERROR: Invalid requirement: '包名': Expected package name at the start of dependency specifier` 表明 `包名` 并非有效的包名，你需要将 `包名` 替换为实际要安装的 Python 包名称。
+
+另外，镜像源地址存在拼写错误，正确的清华大学 PyPI 镜像源地址是 `https://pypi.tuna.tsinghua.edu.cn/simple`。
+
+以下是正确的安装命令示例，假设你要安装 `requests` 包：
+```powershell
+pip install requests -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+请将 `requests` 替换为你实际想安装的包名，再执行该命令。

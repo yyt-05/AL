@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>投篮</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #222;
+            font-family: 'Arial', sans-serif;
+            overflow: hidden;
+        }
+        #game-container {
+    position: relative;
+    width: 800px;
+    height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 25px rgba(0,0,0,0.7);
+}
+        
+        
+        #backboard {
+            position: absolute;
+            right: 120px;
+            top: 80px;
+            width: 15px;
+            height: 120px;
+            background-color: rgba(139, 69, 19, 0.5); /* 半透明木板色 */
+            z-index: 2;
+        }
+        
+        #player {
+            position: absolute;
+            left: 200px;
+            bottom: 30px;
+            width: 120px;
+            height: 180px;
+            background-image: url('https://www.freeiconspng.com/uploads/chicken-png-11.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            transition: all 0.3s ease;
+            z-index: 3;
+            filter: drop-shadow(3px 5px 5px rgba(0,0,0,0.7));
+        }
+        
+        #ball {
+            position: absolute;
+            width: 42px;
+            height: 42px;
+            background: radial-gradient(circle at 30% 30%, #FF6347, #D22F2A);
+            border-radius: 50%;
+            left: 260px;
+            bottom: 110px;
+            display: none;
+            z-index: 4;
+            box-shadow: inset -8px -8px 15px rgba(0,0,0,0.5),
+                        3px 3px 10px rgba(0,0,0,0.3);
+        }
+        
+        #power-meter {
+            position: absolute;
+            left: 40px;
+            bottom: 40px;
+            width: 35px;
+            height: 220px;
+            background-color: rgba(255,255,255,0.15);
+            border-radius: 8px;
+            overflow: hidden;
+            z-index: 5;
+            border: 2px solid rgba(255,255,255,0.3);
+            backdrop-filter: blur(3px);
+        }
+        
+        #power-level {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 0%;
+            background: linear-gradient(to top, #4CAF50, #8BC34A, #CDDC39);
+            transition: height 0.08s ease-out;
+        }
+        
+        #power-text {
+            position: absolute;
+            left: 40px;
+            bottom: 270px;
+            font-size: 18px;
+            color: white;
+            font-weight: bold;
+            text-shadow: 1px 1px 3px black;
+            z-index: 5;
+        }
+        
+        #score {
+            position: absolute;
+            top: 25px;
+            right: 25px;
+            font-size: 28px;
+            color: white;
+            font-weight: bold;
+            text-shadow: 1px 1px 3px black;
+            background: rgba(0,0,0,0.4);
+            padding: 8px 20px;
+            border-radius: 25px;
+            z-index: 5;
+        }
+        
+        #message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 42px;
+            color: #FFD700;
+            font-weight: bold;
+            text-shadow: 0 0 10px #FF4500, 0 0 20px #FF4500;
+            opacity: 0;
+            transition: opacity 0.6s;
+            z-index: 10;
+            animation: pulse 1.5s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: translate(-50%, -50%) scale(1); }
+            50% { transform: translate(-50%, -50%) scale(1.1); }
+            100% { transform: translate(-50%, -50%) scale(1); }
+        }
+        
+        #controls {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: white;
+            font-size: 14px;
+            text-align: center;
+            z-index: 5;
+            background: rgba(0,0,0,0.5);
+            padding: 8px 15px;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <div id="backboard"></div>
+        <div id="player"></div>
+        <div id="ball"></div>
+        <div id="power-meter">
+            <div id="power-level"></div>
+        </div>
+        <div id="power-text">力度</div>
+        <div id="score">得分: 0</div>
+        <div id="message">excellent~</div>
+        <div id="controls">按住鼠标蓄力，松开投篮</div>
+    </div>
+
+    <audio id="success-sound" src="https://www.soundjay.com/buttons/sounds/button-09.mp3" preload="auto"></audio>
+    <audio id="bg-music" loop>
+        <source src="https://www.soundjay.com/misc/sounds/basketball-bounce-01.mp3" type="audio/mpeg">
+    </audio>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const player = document.getElementById('player');
+            const ball = document.getElementById('ball');
+            const powerLevel = document.getElementById('power-level');
+            const powerText = document.getElementById('power-text');
+            const gameContainer = document.getElementById('game-container');
+            const message = document.getElementById('message');
+            const scoreElement = document.getElementById('score');
+            const successSound = document.getElementById('success-sound');
+            const bgMusic = document.getElementById('bg-music');
+            
+            let isCharging = false;
+            let power = 0;
+            let chargeInterval;
+            let score = 0;
+            
+           // 精确调整后 // 篮筐碰撞区域 (根据实际背景图调整)
+            const basketArea = {
+                left: 620,   // 右边缘附近
+                top: 100,    // 篮筐顶部位置
+                right: 700,  // 篮筐宽度
+                bottom: 160  // 篮筐高度
+            };
+                  function init() {
+                ball.style.left = '260px';
+                ball.style.bottom = '110px';
+                ball.style.display = 'none';
+                powerLevel.style.height = '0%';
+                powerText.textContent = '力度';
+                message.style.opacity = '0';
+                player.style.transform = 'translateY(0) scale(1) rotate(0deg)';
+            }
+            
+            function startCharge() {
+                if (isCharging) return;
+                
+                isCharging = true;
+                ball.style.display = 'block';
+                power = 0;
+                player.style.transform = 'translateY(-15px) scale(1.1)';
+                
+                chargeInterval = setInterval(function() {
+                    power += 1.8;
+                    if (power > 100) power = 100;
+                    
+                    powerLevel.style.height = power + '%';
+                    
+                    // 力度反馈文本
+                    if (power < 20) {
+                        powerText.textContent = '轻轻';
+                        powerText.style.color = '#4CAF50';
+                    } else if (power < 50) {
+                        powerText.textContent = '中等';
+                        powerText.style.color = '#FFC107';
+                    } else if (power < 80) {
+                        powerText.textContent = '大力';
+                        powerText.style.color = '#FF9800';
+                    } else {
+                        powerText.textContent = '超级!';
+                        powerText.style.color = '#F44336';
+                    }
+                }, 40);
+            }
+            
+            function shoot() {
+                if (!isCharging) return;
+                
+                clearInterval(chargeInterval);
+                isCharging = false;
+                player.style.transform = 'translateY(0) scale(1) rotate(-15deg)';
+                
+                const angle = 60; // 
+                const gravity = 0.18;
+                const initialVelocity = power / 4.5;
+                
+                let vx = initialVelocity * Math.cos(angle * Math.PI / 180);
+                let vy = initialVelocity * Math.sin(angle * Math.PI / 180);
+                
+                let x = 260;
+                let y = 110;
+                let time = 0;
+                
+                const animate = setInterval(function() {
+                    time += 0.4;
+                    x += vx;
+                    y = 110 + (vy * time) - (0.5 * gravity * time * time);
+                    
+                    ball.style.left = x + 'px';
+                    ball.style.bottom = y + 'px';
+                    
+                    // 碰撞检测
+                    const ballLeft = x;
+                    const ballRight = x + 42;
+                    const ballTop = 500 - y - 42;
+                    const ballBottom = 500 - y;
+                    
+                    if (
+                        ballRight > basketArea.left && 
+                        ballLeft < basketArea.right &&
+                        ballBottom > basketArea.top && 
+                        ballTop < basketArea.bottom
+                    ) {
+                        clearInterval(animate);
+                        score++;
+                        scoreElement.textContent = '得分: ' + score;
+                        message.style.opacity = '1';
+                        successSound.currentTime = 0;
+                        successSound.play();
+                        
+                        setTimeout(function() {
+                            message.style.opacity = '0';
+                        }, 2500);
+                        
+                        setTimeout(init, 1000);
+                    }
+                    
+                    // 出界检测
+                    if (x > 800 || y < 0 || x < 0) {
+                        clearInterval(animate);
+                        setTimeout(init, 800);
+                    }
+                }, 16);
+            }
+            
+            // 事件监听
+            gameContainer.addEventListener('mousedown', startCharge);
+            gameContainer.addEventListener('mouseup', shoot);
+            gameContainer.addEventListener('mouseleave', function() {
+                if (isCharging) {
+                    clearInterval(chargeInterval);
+                    isCharging = false;
+                    init();
+                }
+            });
+            
+            // 触摸支持
+            gameContainer.addEventListener('touchstart', function(e) {
+                e.preventDefault();
+                startCharge();
+            }, {passive: false});
+            
+            gameContainer.addEventListener('touchend', function(e) {
+                e.preventDefault();
+                shoot();
+            }, {passive: false});
+            
+            // 背景音乐控制
+            gameContainer.addEventListener('click', function() {
+                if (bgMusic.paused) {
+                    bgMusic.volume = 0.3;
+                    bgMusic.play().catch(e => console.log('自动播放被阻止'));
+                }
+            });
+            
+            init();
+        });
+    </script>
+</body>
+</html>

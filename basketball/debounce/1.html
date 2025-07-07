@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <button id="btn">提交按钮</button>
+    <script>
+       // 监听鼠标点击
+     let btn=document.getElementById('btn')  
+    btn.addEventListener('click',throttle(function(){
+        console.log('按钮被点击了')
+    },1000))
+       
+       function throttle(fn,wait){
+            let oldTime = 0
+                return function(){
+                    let newTime=Date.now()
+                    if(newTime-oldTime>wait){
+                        fn()
+                        oldTime=newTime
+                    }
+                }
+        }
+    </script>
+</body>
+</html>
