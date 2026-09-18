@@ -22,6 +22,7 @@
 - **AI 安全之争：安全还是控制？**：一篇分析探讨当前 AI 安全讨论究竟聚焦于真正的安全，还是治理话语权。（TechCrunch）
 - **Base Labs 联合 Hugging Face 与 Goodfire 启动开放权重 AI 安全合作**：该合作聚焦于利用开放权重模型推进安全研究。（TechCrunch）
 - **Instinct 与 Meta Muse 均新增拨打电话能力**：两款互为竞争的 AI 助手都获得了代拨电话的功能。（TechCrunch）
+- **Pinterest 预览"Restyle"功能**：新工具让用户借助 AI 重新设计房间布置。（TechCrunch）
 
 ## 2026-09-17
 
@@ -39,12 +40,18 @@
 - **ChatGPT 早期发明者推出 Jev 模型**：ChatGPT 共同发明者的初创公司 TypeSafe 走出隐身阶段，用于自动化程序化决策。（AI News）
 - **Anthropic 将 Claude Cowork 并入 Claude 聊天**：公司下线 Cowork，推出 Claude Docs 与 Claude Slides，认为用户不应先去挑选正确的产品入口。（VentureBeat）
 - **Salesforce 提升智能体任务完成率**：研究人员通过改进"框架"而非更换模型，将浏览器任务成功率从 43.5% 提升至 93%。（VentureBeat）
+- **Treble 完成 1800 万美元融资**：这家总部位于冰岛的公司为其语音仿真平台筹得资金。（TechCrunch）
+- **Al Gore 谈 AI 风险**：戈尔认为 AI 真正的危险并不在数据中心，而在别处。（TechCrunch）
+- **Google Home 支持 AI 智能体控制**：AI 智能体现在可以操作用户的 Google Home 设备。（TechCrunch）
+- **SK 海力士与英特尔洽谈在美建厂**：据报道，SK 海力士正与英特尔商讨在美国合建存储芯片工厂。（TechCrunch）
+- **AI 智能体冲击对象存储假设**：AI 与 RAG 工作负载给企业存储带来压力，促使业界采用智能流量管理等方案应对。（VentureBeat）
 
 ## 2026-09-15
 
 - **Pony.ai 发布面向物流车队的自动驾驶电动卡车**：小马智行携手广汽，推出用于货运供应链的自动驾驶电动卡车。（AI News）
 - **OpenArt 推出新的 Arena 排行榜**：为图形设计、视频广告、对口型等任务提供 AI 媒体模型的分项排名，作为能力图谱而非固定冠军榜。（VentureBeat）
 - **G5 Labs 的自然语言平台**：G5 捕获数据模型、业务规则、工作流与公司政策，将企业代码与工作流转化为自然语言。（VentureBeat）
+- **Salesforce 与英伟达推出推理模型**：双方联合发布的新推理模型被视为对现有 AI 大厂的有力挑战。（AI News）
 
 ## 2026-09-14
 
