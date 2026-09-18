@@ -18,6 +18,10 @@
 - **微软高管谈 AI 数据抓取**：新解密文件显示，一位高管将 AI 数据抓取描述为"人类历史上最大规模的劳动窃取"。（TechCrunch）
 - **华为发布新 AI 芯片计划**：华为计划于 2027 年第一季度推出新 AI 芯片，对标英伟达。（TechCrunch）
 - **Emerald AI 与电网**：Google、英伟达与 Anthropic 共同支持 Emerald AI，为更多数据中心寻找电网容量。（TechCrunch）
+- **用 AI 治理失控的 AI 智能体**：研究者提出，额外的 AI 系统或许有助于约束行为异常的自主智能体。（TechCrunch）
+- **AI 安全之争：安全还是控制？**：一篇分析探讨当前 AI 安全讨论究竟聚焦于真正的安全，还是治理话语权。（TechCrunch）
+- **Base Labs 联合 Hugging Face 与 Goodfire 启动开放权重 AI 安全合作**：该合作聚焦于利用开放权重模型推进安全研究。（TechCrunch）
+- **Instinct 与 Meta Muse 均新增拨打电话能力**：两款互为竞争的 AI 助手都获得了代拨电话的功能。（TechCrunch）
 
 ## 2026-09-17
 
@@ -60,6 +64,21 @@
 - **DeepSeek-V4.1-Flash 发布**：以极低的非高峰缓存输入价格亮相，早期证据显示其基准更多体现性价比优势而非明显的智能领先。（VentureBeat）
 - **Salesforce 推出企业 AI Harness**：一款治理工具，提供六项能力，用于跨企业已有多平台管理与编排 AI 智能体。（VentureBeat）
 - **Anthropic 发布《检测与打击 AI 滥用：2026 年 9 月》报告**：分享已被阻断的威胁行为者行动案例，以及自 2025 年以来 Claude 滥用情况的变化。（Anthropic）
+- **京东以 300 万台机器人扩大物流实体 AI**：公司在物流环节大规模部署机器人。（AI News）
+
+## 2026-09-09
+
+- **CloudNC 加速 AI 供应链精密加工**：公司获得新一轮融资，用于在全球范围扩展其 AI 精密加工技术。（AI News）
+- **三星将 Mistral AI 模型引入半导体制造**：三星在其芯片制造流程中本地化部署 Mistral 模型。（AI News）
+
+## 2026-09-08
+
+- **Arm 推出面向实体 AI 与机器人的 Total Design 框架**：Arm 发布旨在统一自动化系统的标准。（AI News）
+- **Google WeatherNext 3 进军能源市场**：Google 将其 AI 天气预报工具面向电网运营商推广。（AI News）
+
+## 2026-09-02
+
+- **Motional 与 MIT 让自动驾驶决策可解释**：双方合作，致力于让自动驾驶汽车的决策过程更具可解释性。（AI News）
 
 ## 2026-09-01
 
