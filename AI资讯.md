@@ -3,7 +3,7 @@
 > 按日期整理的近期人工智能相关资讯。
 > 最后更新：2026-09-18
 
-来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)
+来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
 
@@ -26,6 +26,8 @@
 - **Google 的 Dream-RSI 智能体效率研究**：研究发现回放过去的搜索记录可大幅减少智能体调用次数，把此前失败记录当作未被利用的模拟器。（VentureBeat）
 - **Anthropic 推出 Claude Code Projects**：一个持久化、"始终在线"的对话功能，可记忆并委派长期运行的开发工作。（VentureBeat）
 - **微软发布新的企业 AI 手册**：微软分享真实案例经验，并揭示企业可能已经拥有的"护城河"。（VentureBeat）
+- **Anthropic 提出衡量前沿实验室 AI 发展速度的新指标**：提议一套新度量方法，让公众更清楚看到前沿实验室内部 AI 的发展进度。（Anthropic）
+- **Anthropic 推出生命科学验证计划（Life Sciences Verification Program）**：面向生命科学领域的新验证计划。（Anthropic）
 
 ## 2026-09-16
 
@@ -57,3 +59,9 @@
 
 - **DeepSeek-V4.1-Flash 发布**：以极低的非高峰缓存输入价格亮相，早期证据显示其基准更多体现性价比优势而非明显的智能领先。（VentureBeat）
 - **Salesforce 推出企业 AI Harness**：一款治理工具，提供六项能力，用于跨企业已有多平台管理与编排 AI 智能体。（VentureBeat）
+- **Anthropic 发布《检测与打击 AI 滥用：2026 年 9 月》报告**：分享已被阻断的威胁行为者行动案例，以及自 2025 年以来 Claude 滥用情况的变化。（Anthropic）
+
+## 2026-09-01
+
+- **Anthropic 推出 Claude Fable 5.1 与 Claude Mythos 5.1**：面向编程与知识工作的最先进模型，并初步展示 AI 如何助力科学进步。（Anthropic）
+- **Anthropic 与客户共同开发企业级前沿安全防护（Enterprise Frontier Safeguards）**：与客户协作构建企业使用场景下的前沿安全防护。（Anthropic）
