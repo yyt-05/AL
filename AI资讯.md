@@ -1,7 +1,7 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-18
+> 最后更新：2026-09-19
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
@@ -23,6 +23,20 @@
 - **Base Labs 联合 Hugging Face 与 Goodfire 启动开放权重 AI 安全合作**：该合作聚焦于利用开放权重模型推进安全研究。（TechCrunch）
 - **Instinct 与 Meta Muse 均新增拨打电话能力**：两款互为竞争的 AI 助手都获得了代拨电话的功能。（TechCrunch）
 - **Pinterest 预览"Restyle"功能**：新工具让用户借助 AI 重新设计房间布置。（TechCrunch）
+- **Anthropic 开设生物学实验实验室**：Anthropic 建立了一处开展生物学研究的实验设施。（TechCrunch）
+- **AI 幻觉险些触发美军行动**：据报道，一次 AI 编造的输出差点促使一项军事行动启动。（TechCrunch）
+- **世界模型公司守口如瓶**：开发"世界模型"的公司对其研究进展异常低调保密。（TechCrunch）
+- **专造初创公司的公司融资 1 亿美元押注实体 AI**：一家孵化其他初创公司的公司完成大额融资，聚焦实体 AI（physical AI）。（TechCrunch）
+- **Google 推出家庭助理智能体"CC"**：Google 发布名为 CC 的 AI 智能体，帮助家庭打理日常事务。（TechCrunch）
+- **Manus 拟以 40 亿美元估值融资 5 亿美元**：AI 智能体公司 Manus 在恢复独立运营之际寻求以 40 亿美元估值融资 5 亿美元。（TechCrunch）
+- **Meta Muse 登陆 Mac**：Meta 将其 Muse AI 引入 macOS，可代替用户在电脑上执行操作。（TechCrunch）
+- **研究者用 Claude 攻入 OpenAI**：安全研究人员演示了利用 Anthropic 的 Claude 突破 OpenAI 系统的方法。（TechCrunch）
+- **Disney 首任 CTO 曾执掌被其指控抄袭角色的 AI 初创公司**：Disney 新任 CTO 的履历因涉及一家 AI 公司而引发争议。（TechCrunch）
+- **印度要求来电识别应用向运营商共享垃圾信息数据**：印度监管机构要求来电识别类应用把垃圾信息举报数据交给电信运营商。（TechCrunch）
+- **Gartner 划分仓储自动化的四层 AI 等级**：随着物流企业从试点走向实际部署，Gartner 将仓储自动化归纳为四个 AI 运营层级。（AI News）
+- **企业采用率：OpenAI 智能体平台 69%，Anthropic Claude 平台 38%**：新调查显示，安装后将其设为主力平台的企业中，OpenAI 领先于 Anthropic。（VentureBeat）
+- **Architect Labs 用 AI 两周设计出推理芯片**：一套 AI 系统在两周内完成推理芯片的设计，人类架构师仅负责编写规格，接下来需在真实硅片上验证。（VentureBeat）
+- **Anthropic 携手 Accenture 开展嵌入式评估**：Anthropic 宣布与 Accenture 合作，推进面向企业的嵌入式评估工作。（Anthropic）
 
 ## 2026-09-17
 
