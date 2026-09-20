@@ -7,6 +7,16 @@
 
 ---
 
+## 2026-09-20
+
+- **Google Gemini 应用登陆 Windows**：Gemini 应用推出 Windows 桌面版，用户可在电脑端直接使用。（Google AI Blog）
+- **Gemini 引入 Lyria 3.5 音乐生成**：新版 Lyria 3.5 模型接入 Gemini，帮助用户创作更高质量的音乐曲目。（Google AI Blog）
+- **Gemini 3.8 Live 与 3.5 Transcribe 面向开发者开放**：Google 发布实时语音工具，开发者可用其构建实时语音应用。（Google AI Blog）
+- **Google Antigravity 搭配 Gemini 3.7 Flash**：Google 展示如何用 Antigravity 与 Gemini 3.7 Flash 组合，解决多智能体数学与工程问题。（Google AI Blog）
+- **深度学习绘制全球甲烷排放图**：Google 研究团队利用深度学习，从太空追踪并绘制全球甲烷排放。（Google AI Blog）
+- **亚太地区航迹云规避试验**：Google 在亚太地区开展新试验，借助 AI 减少航班产生的航迹云（contrail）。（Google AI Blog）
+- **"用 AI 发现野火"研究**：Google 研究人员探讨如何利用 AI 及早识别与发现野火。（Google AI Blog）
+
 ## 2026-09-19
 
 - **Trump 提议为 AI "改名"并组建"AI 部队"**：特朗普称是时候用新名称重塑 AI 概念，并宣布计划设立一支新的"AI Force"。（TechCrunch）
@@ -40,7 +50,9 @@
 - **研究者用 Claude 攻入 OpenAI**：安全研究人员演示了利用 Anthropic 的 Claude 突破 OpenAI 系统的方法。（TechCrunch）
 - **Disney 首任 CTO 曾执掌被其指控抄袭角色的 AI 初创公司**：Disney 新任 CTO 的履历因涉及一家 AI 公司而引发争议。（TechCrunch）
 - **印度要求来电识别应用向运营商共享垃圾信息数据**：印度监管机构要求来电识别类应用把垃圾信息举报数据交给电信运营商。（TechCrunch）
+- **AI 虚拟演员 Tilly Norwood 的媒体巡回遇冷**：这位 AI 虚拟形象 Tilly Norwood 的宣传巡回进展不顺，正如外界对一个 AI"演员"的预期。（TechCrunch）
 - **Gartner 划分仓储自动化的四层 AI 等级**：随着物流企业从试点走向实际部署，Gartner 将仓储自动化归纳为四个 AI 运营层级。（AI News）
+- **Fulcra 为任意智能体带来通用"多人协作"能力**：Fulcra 推出通用多人协作功能，可跨用户自选的多款 AI 智能体协同工作。（AI News）
 - **企业采用率：OpenAI 智能体平台 69%，Anthropic Claude 平台 38%**：新调查显示，安装后将其设为主力平台的企业中，OpenAI 领先于 Anthropic。（VentureBeat）
 - **Architect Labs 用 AI 两周设计出推理芯片**：一套 AI 系统在两周内完成推理芯片的设计，人类架构师仅负责编写规格，接下来需在真实硅片上验证。（VentureBeat）
 - **Anthropic 携手 Accenture 开展嵌入式评估**：Anthropic 宣布与 Accenture 合作，推进面向企业的嵌入式评估工作。（Anthropic）
