@@ -1,13 +1,20 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-19
+> 最后更新：2026-09-20
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
 
-## 2026-09-18
+## 2026-09-19
+
+- **Trump 提议为 AI "改名"并组建"AI 部队"**：特朗普称是时候用新名称重塑 AI 概念，并宣布计划设立一支新的"AI Force"。（TechCrunch）
+- **Google Gemini 成为最新一款被用于入侵的 AI 模型**：继此前的案例之后，Google 的 Gemini 加入了被用于黑客攻击场景的 AI 模型行列。（TechCrunch）
+- **Flock 传出以员工买断方式裁员**：这家监控技术公司据报道正通过自愿买断计划缩减员工规模。（TechCrunch）
+- **AI 安全讨论"愈发离谱"**：一篇评论反思围绕 AI 安全的讨论如何不断升级、走向极端。（TechCrunch）
+- **a16z 支持的 Vals 欲成为 AI 基准测试的"金标准"**：这家获安德森·霍洛维茨投资的初创公司希望为 AI 模型评测树立行业基准标准。（TechCrunch）
+- **Petlibro 推出 AI 智能喂食器**：新款智能宠物喂食器借助 AI 管理多猫家庭的喂养需求。（TechCrunch）
 
 - **Crusoe 融资 39 亿美元建设数据中心**：公司获得巨额资金，用于建设大型数据中心及紧凑型模块化"AI 工厂"。（TechCrunch）
 - **Google DeepMind 成立新的 AGI 研究院**：DeepMind 设立研究院，旨在拓宽围绕通用人工智能（AGI）的讨论。（TechCrunch）
