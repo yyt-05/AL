@@ -1,11 +1,21 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-20
+> 最后更新：2026-09-21
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-09-21
+
+- **Google 开源 EnvHarness，让 AI 智能体与"会进化的环境"共同训练**：无需反复搭建全新的模拟器与训练任务，该方法从一个可靠环境出发，动态重塑环境以针对智能体当前的薄弱环节进行训练。（VentureBeat）
+- **企业 AI 生态系统可见性指南**：一篇指南探讨组织如何在跨系统的企业 AI 生态中获得更好的统一监控与治理可见性。（AI News）
+- **Google 谈"用 AI 加速科学、改善生活"**：Google 阐述其 AI 工作如何在多个关键领域切实影响人们的日常生活。（Google AI Blog）
+- **用 Gemini 处理家务的 4 种方式**：Google 分享借助 Gemini 应用管理日常家庭事务的若干实用方法。（Google AI Blog）
+- **ScrollEd 想把教科书变成"TikTok"**：一家初创公司试图把教育内容重塑为短视频式、可滑动浏览的形式。（TechCrunch）
+- **AI 行业真的准备好"减速"了吗？**：一篇评论审视 AI 产业是否真正做好了放缓高速发展步伐的准备。（TechCrunch）
+- **Vocci 智能戒指为会议记录带来新形态**：一款可穿戴戒指设备主打在会议中自动捕捉与整理笔记。（TechCrunch）
 
 ## 2026-09-20
 
