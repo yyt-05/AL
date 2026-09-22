@@ -1,11 +1,21 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-21
+> 最后更新：2026-09-22
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-09-22
+
+- **小米 MiMo-V2.6-Pro 登顶开源权重模型**：小米新模型据称性能超越 DeepSeek，并能协调多个智能体，从文本、图像或视频生成可交互的 3D 世界。（VentureBeat）
+- **OpenAI 组建数学顾问团，其 AI 已破解逾百道未解难题**：在 AI 成功攻克大量未解数学问题后，OpenAI 组建了一支数学顾问团队。（TechCrunch）
+- **打造过苹果零售店的高管不看好硅谷的"AI 购物"押注**：这位前苹果零售业务高管对科技行业押注 AI 驱动购物体验表达了怀疑。（TechCrunch）
+- **Meta Muse 移动端增长速度超越 ChatGPT 早期**：Meta 的 AI 应用 Muse 据报道在获取用户方面的速度快于 ChatGPT 当年的移动端首发。（TechCrunch）
+- **Meta 的 AI 智能体被亚马逊封禁**：据报道，亚马逊已限制 Meta 的 AI 购物智能体访问其零售平台。（TechCrunch）
+- **Tabby：前会计师用 AI 让会计"消失"**：一位前会计师创办的初创公司正开发旨在自动化传统会计工作的 AI 工具。（TechCrunch）
+- **Google 售价 899 美元的 Googlebook 押注"为 Gemini 换新笔电"**：Google 押注消费者会为围绕 Gemini AI 助手设计的新笔记本电脑买单。（TechCrunch）
 
 ## 2026-09-21
 
@@ -16,6 +26,9 @@
 - **ScrollEd 想把教科书变成"TikTok"**：一家初创公司试图把教育内容重塑为短视频式、可滑动浏览的形式。（TechCrunch）
 - **AI 行业真的准备好"减速"了吗？**：一篇评论审视 AI 产业是否真正做好了放缓高速发展步伐的准备。（TechCrunch）
 - **Vocci 智能戒指为会议记录带来新形态**：一款可穿戴戒指设备主打在会议中自动捕捉与整理笔记。（TechCrunch）
+- **多智能体 AI 系统接管供应链执行**：供应链团队正从静态预测仪表盘转向由自主多智能体 AI 系统来执行物流调度。（AI News）
+- **Grok 4.7 编码能力提升且定价亲民**：文章提醒，尽管每 token 成本低，但推理 token 的大量消耗可能在企业规模下侵蚀实际投资回报。（VentureBeat）
+- **评论：我为何不担心 AI 会毁灭人类**：一篇观点文章认为，更值得担忧的并非 AI 毁灭人类，而是有人滥用 AI 去伤害他人。（VentureBeat）
 
 ## 2026-09-20
 
