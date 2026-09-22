@@ -9,7 +9,7 @@
 
 ## 2026-09-22
 
-- **小米 MiMo-V2.6-Pro 登顶开源权重模型**：小米新模型据称性能超越 DeepSeek，并能协调多个智能体，从文本、图像或视频生成可交互的 3D 世界。（VentureBeat）
+- **小米 MiMo-V2.6-Pro 登顶开源权重模型**：小米新模型据称性能超越 DeepSeek，并能协调多个智能体，从文本、图像或视频生成可交互的 3D 世界；同时推出更廉价的 V2.6-Flash 变体。（VentureBeat）
 - **OpenAI 组建数学顾问团，其 AI 已破解逾百道未解难题**：在 AI 成功攻克大量未解数学问题后，OpenAI 组建了一支数学顾问团队。（TechCrunch）
 - **打造过苹果零售店的高管不看好硅谷的"AI 购物"押注**：这位前苹果零售业务高管对科技行业押注 AI 驱动购物体验表达了怀疑。（TechCrunch）
 - **Meta Muse 移动端增长速度超越 ChatGPT 早期**：Meta 的 AI 应用 Muse 据报道在获取用户方面的速度快于 ChatGPT 当年的移动端首发。（TechCrunch）
