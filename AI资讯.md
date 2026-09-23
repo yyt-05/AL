@@ -1,14 +1,27 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-22
+> 最后更新：2026-09-23
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
 
+## 2026-09-23
+
+- **AI 智能体正成为新的恶意软件分发渠道**：安全研究人员指出，AI 智能体正演变为传播恶意软件的新型攻击载体，为企业安全带来新的威胁面。（AI News）
+
 ## 2026-09-22
 
+- **Anthropic 发布 Claude Opus 5.5，价格更低且性能对标 Fable**：新版 Opus 5.5 以更低的 API 定价（较 Opus 5.1 便宜约 60%）在多项智能体基准上超越此前的 Claude 模型，其自动化行为审计覆盖约 2000 个场景。（TechCrunch / VentureBeat / Anthropic）
+- **OpenAI 发布 GPT-6 Sol 与 Luna，宣称成本更低、失误更少**：新模型将 API 成本削减 50% 以上——Luna 主打廉价的信息抽取与摘要，Sol 负责常规编码与智能体任务，最难的工作仍交由 Astra。（TechCrunch / VentureBeat）
+- **Snorkel AI 估值翻三倍至 35 亿美元**：随着 AI 训练数据需求激增，这家专注训练数据的初创公司估值大幅跃升。（TechCrunch）
+- **高通发布两款主打 AI 的智能手机芯片**：新款骁龙芯片将 AI 能力置于核心。（TechCrunch）
+- **希腊总理坦言"我们已在打昨天的仗"**：希腊总理就 AI 带来的挑战直言不讳。（TechCrunch）
+- **Meta 承认 Muse 与 OpenClaw 的相似并非巧合**：Meta 承认其应用与竞品之间的雷同出于有意为之。（TechCrunch）
+- **AstroForge 让 AI 接管下一艘航天器**：该公司将把航天器的控制权交给 AI 系统。（TechCrunch）
+- **Nscale IPO 再度考验华尔街对集中式 AI 押注的胃口**：此次 IPO 用以衡量投资者对聚焦型 AI 投资的兴趣。（TechCrunch）
+- **文本交接拖慢 AI 模型，C2C 让它们改用 KV 缓存通信**：一种新方法消除了模型间基于文本的交接，但仅适用于自管推理栈的团队。（VentureBeat）
 - **小米 MiMo-V2.6-Pro 登顶开源权重模型**：小米新模型据称性能超越 DeepSeek，并能协调多个智能体，从文本、图像或视频生成可交互的 3D 世界；同时推出更廉价的 V2.6-Flash 变体。（VentureBeat）
 - **OpenAI 组建数学顾问团，其 AI 已破解逾百道未解难题**：在 AI 成功攻克大量未解数学问题后，OpenAI 组建了一支数学顾问团队。（TechCrunch）
 - **打造过苹果零售店的高管不看好硅谷的"AI 购物"押注**：这位前苹果零售业务高管对科技行业押注 AI 驱动购物体验表达了怀疑。（TechCrunch）
