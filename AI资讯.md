@@ -1,18 +1,36 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-23
+> 最后更新：2026-09-24
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
 
+## 2026-09-24
+
+- **Meta 一次性公布 Muse AI 智能体的多项新功能**：Meta 集中展示了其 Muse AI 智能体即将上线的一系列更新与新能力。（TechCrunch）
+- **Meta 为 Muse 推出"电子宠物"式可穿戴设备**：Meta 打造了一款类似电子宠物（Tamagotchi）的随身穿戴设备，作为 Muse AI 智能体的实体伴侣。（TechCrunch）
+- **Meta 发布无摄像头 AI 眼镜**：Meta 推出一款主打 AI 能力、但特意取消内置摄像头的智能眼镜。（TechCrunch）
+- **ChatGPT 手机端新增语音智能体功能**：OpenAI 为 ChatGPT 移动应用加入了以语音驱动的智能体（agentic）能力，方便用户随身使用。（TechCrunch）
+- **Enveda 融资 3.11 亿美元推进 AI 天然药物临床试验**：生物科技公司 Enveda 完成 3.11 亿美元融资，用于将更多源自天然、由 AI 发现的候选药物推向临床试验。（TechCrunch）
+- **调查显示：每天使用 AI 的美国人同样对其感到担忧**：一份报告发现，即便是每天使用 AI 的用户，也对这项技术怀有明显的顾虑。（TechCrunch）
+- **YouTube 允许用户借助 AI"打造自己的算法"**：YouTube 宣布新功能，让用户可通过 AI 自定义其推荐信息流。（TechCrunch）
+- **YouTube Music 引入更具对话感的 AI 功能**：YouTube Music 上线新 AI 工具，支持更自然的对话式交互。（TechCrunch）
+- **YouTube 在 Studio 应用内为创作者推出新 AI 功能**：YouTube 面向创作者在 Studio 应用中新增多项 AI 能力。（TechCrunch）
+- **Gemini 迎来新一波"互联应用"接入**：Google 为 Gemini 平台陆续接入更多第三方应用集成，扩展其可连接的应用生态。（Google AI Blog）
+- **Google Beam 拓展新地区、合作伙伴与客户**：Google Beam 项目持续扩大覆盖范围与合作网络。（Google AI Blog）
+
 ## 2026-09-23
 
 - **AI 智能体正成为新的恶意软件分发渠道**：安全研究人员指出，AI 智能体正演变为传播恶意软件的新型攻击载体，为企业安全带来新的威胁面。（AI News）
+- **美军 TRANSCOM 部署"随机化 AI"以保障军事物流安全**：美国运输司令部启用随机化 AI 系统，保护其全球军事分发网络免受干扰。（AI News）
+- **Black Forest Labs 发布开源权重机器人模型 FLUX 3 Action**：该模型以竞品一半的体量登顶排行榜，据称训练出的任务专用策略"能在现实中操控无人机飞行，甚至零阵亡通关经典游戏《Doom》"。（VentureBeat）
+- **Claude 发现具备类 CRISPR 重复序列的新型酶系统**：Anthropic 表示其 Claude 在生物学研究中发现了一套全新的酶系统。（Anthropic）
 
 ## 2026-09-22
 
+- **卫生机构部署 Claude 应对刚果（金）东部埃博拉疫情**：Anthropic 的《态势报告》介绍，多家卫生组织正利用 Claude 协助抗击刚果民主共和国东部一场危险的埃博拉疫情。（Anthropic）
 - **Anthropic 发布 Claude Opus 5.5，价格更低且性能对标 Fable**：新版 Opus 5.5 以更低的 API 定价（较 Opus 5.1 便宜约 60%）在多项智能体基准上超越此前的 Claude 模型，其自动化行为审计覆盖约 2000 个场景。（TechCrunch / VentureBeat / Anthropic）
 - **OpenAI 发布 GPT-6 Sol 与 Luna，宣称成本更低、失误更少**：新模型将 API 成本削减 50% 以上——Luna 主打廉价的信息抽取与摘要，Sol 负责常规编码与智能体任务，最难的工作仍交由 Astra。（TechCrunch / VentureBeat）
 - **Snorkel AI 估值翻三倍至 35 亿美元**：随着 AI 训练数据需求激增，这家专注训练数据的初创公司估值大幅跃升。（TechCrunch）
