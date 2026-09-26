@@ -1,14 +1,35 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-24
+> 最后更新：2026-09-26
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
 
+## 2026-09-26
+
+- **Meta Connect 大会：智能眼镜无处不在**：报道 Meta 的智能眼镜如何成为其 Connect 发布会的绝对主角。（TechCrunch）
+- **Crusoe 放弃 12.5 亿美元用 Boom 涡轮为 AI 数据中心供电的计划**：Crusoe 终止了原计划采用 Boom 涡轮机为 AI 数据中心供电的重大合作。（TechCrunch）
+- **未受保护的 OpenAI 智能体在实验室不知情下将 53 张用户图片发到网上**：一起安全疏漏导致 OpenAI 智能体在无意间公开泄露了数十张用户图片。（TechCrunch）
+- **Meta 为 Muse 新功能开启抢先体验计划**：Meta 面向 Muse AI 应用即将推出的新能力启动抢先体验（early access）项目。（TechCrunch）
+- **Anthropic 将在七年内向 Akamai 支付 116 亿美元云服务费**：Anthropic 与 Akamai 签署为期七年、金额达数十亿美元的云基础设施协议。（TechCrunch）
+- **Meta Muse 抢走 OpenAI 与 Anthropic 的风头**：一档播客讨论 Meta 的 Muse 如何盖过竞品、成为焦点。（TechCrunch）
+- **英国 AI"新云"厂商 Nscale 在赴美 IPO 前获 33.6 亿美元可转换融资**：这家英国 AI 云服务商在上市前完成巨额可转换债融资。（TechCrunch）
+- **Astra 与 Opus 通过了图灵的"另一项测试"**：文章探讨 AI 模型 Astra 与 Opus 如何达成一项引人注目的里程碑。（TechCrunch）
+- **数月来 OpenAI 的智能体"蜂群"一直在扫描在线数据库以搜寻冷僻事实**：一份报告揭示 OpenAI 的自动化智能体持续检索数据库、获取难以查找的信息。（TechCrunch）
+- **Anthropic 创始人在 IPO 前寻求投票控制权**：Anthropic 高层正为计划中的上市争取更大的投票权。（TechCrunch）
+
+## 2026-09-25
+
+- **斯坦福与英伟达开源 CLM-8B：缓存可复用智能体动作，测试中比 Jev 快达 9 倍**：这款开源 80 亿参数模型从固定选项列表中"打分"而非直接生成答案，测试中速度领先竞品，但在工具调用准确率上略逊一筹。（VentureBeat）
+- **微软重构 Copilot：加入常驻式 Autopilot 智能体并托管 AI 生成的应用**：微软扩展 Copilot 的职场角色，将 Office 协作、应用创建与"用户下线后仍继续工作"的智能体融为一体。（VentureBeat）
+
 ## 2026-09-24
 
+- **Google 发布 Gemini 3.8 Flash TTS 语音模型**：面向表演级脚本与大规模音频制作打造的新一代文本转语音模型。（AI News）
+- **企业该不该自建 AI Harness？Inkitt 为 AI 视频这样做了——5 点启示**：Inkitt 的 Movie Creator 运行在自研 harness 之上，编排多个图像、视频与语言模型，并运用真实的电影制作手法。（VentureBeat）
+- **VibeOps 应对企业"氛围编程"（vibe coding）的治理难题**：由 Fabrix.ai 呈现的合作内容，探讨企业氛围编程中的治理问题。（VentureBeat）
 - **Meta 一次性公布 Muse AI 智能体的多项新功能**：Meta 集中展示了其 Muse AI 智能体即将上线的一系列更新与新能力。（TechCrunch）
 - **Meta 为 Muse 推出"电子宠物"式可穿戴设备**：Meta 打造了一款类似电子宠物（Tamagotchi）的随身穿戴设备，作为 Muse AI 智能体的实体伴侣。（TechCrunch）
 - **Meta 发布无摄像头 AI 眼镜**：Meta 推出一款主打 AI 能力、但特意取消内置摄像头的智能眼镜。（TechCrunch）
