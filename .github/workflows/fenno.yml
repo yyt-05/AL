@@ -1,0 +1,40 @@
+name: Fenno 每日 AI 知识
+
+on:
+  schedule:
+    # UTC 01:15 = 北京时间 09:15，每天一次。
+    - cron: '15 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fenno-ai-daily
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 收集 AI 知识
+        run: python scripts/ai_daily.py
+      - name: 保存日报到仓库
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ai-daily/
+          if git diff --cached --quiet; then
+            echo '没有需要保存的变化'
+            exit 0
+          fi
+          git commit -m "docs: update daily AI knowledge"
+          git pull --rebase origin main
+          git push origin HEAD:main
