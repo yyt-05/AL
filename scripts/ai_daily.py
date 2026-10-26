@@ -13,6 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1] / "ai-daily"
 FEEDS = [
+    ("OpenAI · 产品与研究动态", "https://openai.com/news/rss.xml"),
     ("Hugging Face · 开源模型与实践", "https://huggingface.co/blog/feed.xml"),
     ("Google Research · 研究与方法", "https://research.google/blog/rss/"),
     ("arXiv cs.AI · AI 论文", "https://rss.arxiv.org/rss/cs.AI"),
@@ -113,7 +114,8 @@ def main():
                 lines += [f"### {title}", "", f"- 原文：<{item['url']}>",
                           f"- 发布日期：{item['date'].date().isoformat()}", "",
                           "来源摘要（保留原文）：", "",
-                          "> " + (item["summary"][:600] or "来源未提供摘要，请阅读原文。"), ""]
+                          "> " + ((item["summary"][:600].rstrip() + ("…" if len(item["summary"]) > 600 else ""))
+                                   or "来源未提供摘要，请阅读原文。"), ""]
             sections.append("\n".join(lines))
     if successes == 0:
         raise RuntimeError("所有来源获取失败，不写入日报或去重记录")
