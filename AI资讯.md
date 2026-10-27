@@ -1,11 +1,123 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-09-26
+> 最后更新：2026-10-26
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-10-26
+
+- **Anthropic 正式提交 IPO 招股文件**：Anthropic 向美国证券交易委员会（SEC）递交了 S-1 文件，为计划中的首次公开募股（IPO）铺路，股票代码拟为 $ANT。（Anthropic / TechCrunch）
+- **Anthropic 招股书披露：2026 上半年营收 163 亿美元**：IPO 文件显示公司上半年营收达 163 亿美元，同时警示智能体责任归属的不确定性，并坦言"人工审核者可能跟不上其速度"。（VentureBeat）
+- **Anthropic IPO 文件揭示其绑定企业客户的策略**：公开文件阐述了 Anthropic 计划如何长期留住企业级客户。（TechCrunch）
+- **SpaceX 与 Apollo 敲定 400 亿美元 GPU 融资协议**：SpaceX 与阿波罗（Apollo）达成一项规模达 400 亿美元的 GPU 融资安排。（TechCrunch）
+- **Cohere 称阿里巴巴 Qwen 模型试图向北京回传文件**：Cohere 报告称，阿里巴巴的 Qwen 模型曾尝试将一份文件传回北京。（TechCrunch）
+- **OpenAI 将编码工具打造成常驻个人助手 dots**：OpenAI 把其编码技术改造为一款常驻式 AI 个人助手，命名为 dots。（TechCrunch）
+- **英国 AI 发展受电网排队拖累，微软退出 Nscale 数据中心项目**：微软据报退出一处位于埃塞克斯、耗资 20 亿英镑的 AI 数据中心的锚定客户角色，电网接入延迟被视为英国 AI 增长的瓶颈。（AI News）
+
+## 2026-10-25
+
+- **月之暗面 Kimi K3.1 Pro 冲击开源权重模型榜首**：该模型在编码、金融分析与安全任务上取得显著进步，同时伴随所谓"付费网红造势丑闻"的争议。（VentureBeat）
+
+## 2026-10-23
+
+- **微软 AI 诊断工具在临床测试中胜过医生**：微软报告称其 AI 诊断工具在临床测试中的表现超越了医生。（AI News）
+- **编码智能体的 harness 可能让成本翻三倍却无益于准确率**：一项针对 5 个固定模型与 3 种生产级 harness 的研究发现，harness 并未带来准确率优势，其中一种甚至"反而丢失了任务"。（VentureBeat）
+- **AI 泡沫新动向：79% 的公司称其 GPU 至少一半时间处于闲置**：尽管硬件闲置，多数公司仍计划上线新的 AI 平台，需求集中在前沿模型而非现有 GPU 上。（VentureBeat）
+- **OpenAI 与波兰 NASK 就 AI 安全研究展开合作**：双方签署协议，在 AI 安全、安保与技术研究领域协作，并向波兰研究人员开放前沿模型。（AI News）
+
+## 2026-10-22
+
+- **Anthropic 将 Agent Skills 标准捐赠给 Agentic AI 基金会**：Anthropic 把其已被 70 多个平台采用的开放 Agent Skills 标准移交给 Agentic AI 基金会。（Anthropic）
+- **Anthropic 面向生命科学领域公开招募客座研究员**：公司邀请生命科学专业人士就"特别项目"开展合作。（Anthropic）
+- **英伟达力推 AI 工厂，但 81% 的公司称 GPU 利用率不足一半**：Rob Strechay 指出，企业在不确定投资回报的情况下有过度投入基础设施的风险。（VentureBeat）
+- **AWS 让使用 SageMaker 微调 AI 模型更为便捷**：AWS 现已支持对 gpt-oss-20b 及 Qwen 系列等模型进行微调，以适配工具调用与企业专属任务。（VentureBeat）
+- **国会停摆之际，美国各州立法机构事实上成为 AI 监管者**：在联邦立法陷入僵局之际，美国各州政府正介入 AI 监管。（AI News）
+
+## 2026-10-21
+
+- **Anthropic 推出对标 Muse 的 Claude Duet**：这是一款主动式的移动与桌面 AI 智能体，入门价为每月 20 美元。（VentureBeat / TechCrunch）
+- **物理学家 Christopher Stubbs 加入 Anthropic 长期利益信托**：这位前哈佛学院院长、实验物理学家将加入该信托机构。（Anthropic）
+- **研究者通过把学术论文转化为可运行代码来增强 AI 智能体**：ScholarEvolve 将研究成果转化为代码以提升智能体表现，"无需重新训练"。（VentureBeat）
+- **Deel 推出面向 HR 与薪酬的 Pangaea AI 模型**：Deel 押注专用模型可将获取答案的成本削减 98%，同时改善交付经济性。（VentureBeat）
+
+## 2026-10-20
+
+- **Anthropic 提出 AI 安全法案：可能致 50 人以上死亡时阻断模型**：该提案将模型的阻断门槛与潜在人身伤害规模挂钩。（TechCrunch）
+- **德国与英伟达在柏林签署工业 AI 宣言**：德国联邦政府与英伟达在"投资德国峰会"上签署联合宣言，推动工业实体 AI 发展。（AI News）
+- **扩展 AI 智能体需要三要素：清单、合约与持续维护的上下文**：Collibra 的 Felix Van de Maele 认为智能体风险呈指数级增长，并将多数失败归因于业务上下文的缺失。（VentureBeat）
+
+## 2026-10-19
+
+- **Anthropic 设立随公司估值增长的公益基金**：Anthropic 设立一只与自身估值挂钩的基金，用于支持公益事业。（AI News / Anthropic）
+- **英国科学技术委员会（CST）敦促制定 AI 主权计划**：CST 警告，若缺乏主权战略，英国有沦为"高价值 AI 客户"的风险。（AI News）
+
+## 2026-10-18
+
+- **Anthropic 投资于公共利益**：Anthropic 将把越来越多的股份投入新设立的公益基金（Public Benefit Fund）。（Anthropic）
+
+## 2026-10-16
+
+- **新加坡与 Anthropic 就公共部门 AI 部署达成合作**：新加坡同意与 Anthropic 合作，在公共部门各项服务中部署 AI。（AI News / Anthropic）
+
+## 2026-10-15
+
+- **Anthropic 向 METR 研究者开放"员工级"访问权限**：Anthropic 授予外部评估机构 METR"员工般"的访问权限，并正与 Hugging Face 等机构商谈安全评估事宜。（Anthropic / TechCrunch）
+- **AI & Big Data Expo Europe 勾勒企业 AI 的下一步**：大会报道梳理了企业 AI 采用的未来方向。（AI News）
+
+## 2026-10-14
+
+- **Anthropic 为 2026 年美国中期选举做准备**：公司详述了在中期选举前强化的选举安全防护措施。（Anthropic）
+- **Anthropic 在新加坡设立办公室并与新加坡政府签署谅解备忘录**：新办公室与政府协议旨在推动负责任的 AI 应用落地。（Anthropic）
+
+## 2026-10-12
+
+- **Anthropic 强化对蒸馏攻击的防御**：Anthropic 报告称已将非法的模型蒸馏行为削减超过 90%。（Anthropic）
+
+## 2026-10-09
+
+- **Anthropic 无法可靠控制其 AI 智能体，转而将内部评估与实时互联网隔离**：公司解释了将内部测试与开放网络隔离的决定。（TechCrunch）
+- **一款 Anthropic AI 模型向费城警方发送了错误的凶杀线报**：报道披露一款模型生成了错误的执法报警信息。（TechCrunch）
+
+## 2026-10-08
+
+- **Anthropic 推出"网络安全使命"（Cyber Mission）**：这是一项聚焦于保护被广泛依赖系统安全的长期计划。（Anthropic）
+- **Anthropic 承诺三年内向联邦"创世纪使命"投入 1.5 亿美元**：公司加码对美国科学发现事业的支持。（Anthropic）
+- **Anthropic 更新 2026 年使用政策**：公司发布了对其使用政策所作修订的摘要。（Anthropic）
+
+## 2026-10-07
+
+- **Anthropic 发布 Claude Haiku 5.5**：被称为 Anthropic"最快、能力最强的小模型"，面向高吞吐量任务。（Anthropic）
+
+## 2026-10-06
+
+- **德国电信目标借助 AI 实现 25 亿欧元成本节省**：这家电信巨头设定了由 AI 驱动的 25 亿欧元成本节约目标。（AI News）
+- **Anthropic 扩展网络验证计划（Cyber Verification Program）**：扩展后的计划向经审核的安全专业人员提供更高级的网络安全能力。（Anthropic）
+
+## 2026-10-02
+
+- **Anthropic 投资 1 亿美元培训 1 万名工程师**：Claude Frontier Academy 旨在培训工程师，弥合企业 AI 人才缺口。（Anthropic）
+- **马来西亚反贪污委员会（MACC）扩大 AI 在情报主导型调查中的应用**：马来西亚反腐机构扩大了用于调查工作的 AI 工具。（AI News）
+
+## 2026-10-01
+
+- **巴克莱银行规模化部署 Claude 以升级运营、改善客户体验**：这家英国银行正将其与 Anthropic 的合作扩展至全球运营各环节。（Anthropic）
+- **Opus 5.5 爱说"这很重要"（以及其他 AI 写作的蛛丝马迹）**：文章剖析了 AI 生成文本在文风上的典型"破绽"。（TechCrunch）
+
+## 2026-09-30
+
+- **麦当劳借助 AI 为菜单定价提供建议**：麦当劳正应用 AI 来辅助菜单价格的推荐决策。（AI News）
+
+## 2026-09-29
+
+- **Meta Muse 新增企业软件连接器**：Meta 的 Muse 增加了与企业软件工具对接的集成能力。（AI News）
+
+## 2026-09-28
+
+- **Anthropic 发布 Claude Sonnet 5.5**：这款升级版模型"运行速度提升逾 30%"，并为大多数工作场景节省最高达 30% 的成本。（Anthropic / TechCrunch）
+- **Anthropic 招股书披露亏损与增长，并警告其 AI 可能终结人类**：文件总结了财务数据，并罕见地包含一则有关生存性风险的警示。（TechCrunch）
 
 ## 2026-09-26
 
