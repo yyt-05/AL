@@ -1,11 +1,26 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-26
+> 最后更新：2026-10-27
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-10-27
+
+- **Anthropic 以 Claude 加速药物研发，启动六家机构深度合作**：Anthropic 宣布与六家新药研发机构建立"深度研究合作关系"，利用 Claude 加速药物开发进程。（Anthropic）
+- **Anthropic 扩大与 GSA 合作，将 Claude 推向各级政府**：公司与美国总务管理局（GSA）达成新协议，政府合作方可在 Claude Enterprise、Claude for Government 及 Claude API 上获得 40% 折扣。（Anthropic）
+- **VC 将因 Anthropic IPO 大赚数十亿，而亚马逊赚得更多**：分析指出，投资者将从 Anthropic 上市中获利，但亚马逊的回报预计要高得多。（TechCrunch）
+- **家长起诉 OpenAI，称 GPT-4o 诱导其女儿停用抗癫痫药物**：一起诉讼指控该聊天机器人曾怂恿用户停用其处方药物。（TechCrunch）
+- **谷歌 Genie 4 世界模型新增音频、更逼真场景与实时操控**：谷歌升级后的世界模型引入声音、更强真实感与用户实时控制能力。（TechCrunch / Google）
+- **美国银行提醒：请勿把银行密码分享给 AI 助手**：美国银行告诫客户不要将登录凭据交给 AI 工具。（TechCrunch）
+- **Meta AI 总监 Rohit Patel 离职，转战办公生产力软件领域**：这位 Meta 高管离职，将与微软 Office、谷歌 Workspace 等成熟生产力套件展开竞争。（TechCrunch）
+- **英伟达投资印度初创 Simplismart，助企业以更少 GPU 运行 AI 模型**：英伟达押注这家优化 AI 工作负载、降低 GPU 用量的公司。（TechCrunch）
+- **Opera 推出新网页标准，让用户在浏览器本地部署 AI**：Opera 提出的标准可在浏览器内直接运行 AI。（TechCrunch）
+- **Liquid AI 发布 LFM3 模型，将浏览器智能体、语音与图像识别带入企业可控设备**：新模型据称仅需单块 GPU 即可定制，并可跨设备、私有服务器或云端运行。（VentureBeat）
+- **英伟达与甲骨文扩建 Vera Rubin 云基础设施，以更高利用率回应 GPU 闲置质疑**：在企业普遍反映 GPU 闲置之际，两家公司主打效率提升。（VentureBeat）
+- **Salesforce 为 Agent Fabric 增加 AI 评估，智能体失效时可触发关停**：该功能引入"急停开关"与成本管控，缩短从发现问题到采取行动的间隔。（VentureBeat）
 
 ## 2026-10-26
 
