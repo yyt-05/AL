@@ -1,11 +1,32 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-27
+> 最后更新：2026-10-29
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-10-29
+
+- **Google 在 Gemini App 中上线 Gemini 4，并面向开发者开放 Gemini 4 Argon**：最新一代 Gemini 4 模型向 App 用户推送，开发者可通过 Gemini 4 Argon 获得访问权限。（Google）
+- **Google 为 Gemini App 新增"沉浸式探索"与面向小微企业主的新工具**：用户可借助沉浸式交互方式学习新主题，小微企业主则获得专门的 Gemini 能力支持。（Google）
+- **Google 推出 Gemini 3.8 Live 与 3.5 Transcribe，支持构建实时语音应用**：新工具面向开发者，使实时语音应用开发成为可能。（Google）
+- **Anthropic 发布当日公告（Announcements）**：Anthropic 在其官网 News 页面发布最新公告。（Anthropic）
+
+## 2026-10-28
+
+- **Anthropic 推出 AI 支出价值可视化工具，帮助企业看清 AI 花费买到了什么**：新功能让企业追踪 AI 投入所带来的实际价值与产出。（Anthropic / TechCrunch）
+- **Anthropic 的"AI for Science"计划扩展至基金会与科研机构**：公司在全球范围内展示 20 家科学合作伙伴，作为该计划更大规模推广的一部分。（Anthropic）
+- **微软首次披露 Azure 实际营收：332 亿美元**：微软公布了其 Azure 云业务以美元计的具体营收数字。（TechCrunch）
+- **微软录得来自 OpenAI 的 100 亿美元营收**：微软报告称其与 OpenAI 的合作带来了可观营收。（TechCrunch）
+- **微软连续十个季度创下营收纪录**：公司延续了连续多个季度刷新营收纪录的势头。（TechCrunch）
+- **谷歌核心广告增长放缓之际，全球扩张 AI 搜索广告**：在传统广告业务增长放缓背景下，谷歌在全球范围内推广 AI 驱动的搜索广告。（TechCrunch）
+- **随着 AI 智能体重塑网络，谷歌向更多应用开放 Gemini 与搜索**：在 AI 智能体改变网络使用方式之际，谷歌扩大了 Gemini 与搜索的应用集成。（TechCrunch）
+- **Chrome 的 AI 自动填充现可读取 Gmail 内容来填写表单**：谷歌 Chrome 浏览器可从 Gmail 中提取数据，自动完成网页表单。（TechCrunch）
+- **英伟达发布全新开源转写模型，语音 AI 持续走热**：英伟达推出了一款新的开源语音转写模型。（TechCrunch）
+- **观点：AI 高管或因脱离大众而难以为普通用户打造产品**：一篇文章质疑 AI 领导层是否真正理解普通用户的需求。（TechCrunch）
+- **韩国金融行业遭遇新一轮网络攻击**：韩国金融机构面临新一波网络攻击活动。（TechCrunch）
 
 ## 2026-10-27
 
