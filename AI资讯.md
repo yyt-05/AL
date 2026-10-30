@@ -1,11 +1,43 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-27
+> 最后更新：2026-10-30
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-10-30
+
+- **Waymo 选定丰田供应 Robotaxi，进军日本与英国市场**：Waymo 宣布将采用丰田 bZ4X 作为其在日本与英国推出自动驾驶出租车服务的车型。（TechCrunch）
+
+## 2026-10-29
+
+- **Mistral 发布 Large 4"Le Chonk"，成中国以外最强开源模型**：新模型编码性能提升、单任务成本降低 63%，但仍"落后开源权重领头羊 DeepSeek V4.1 Flash 与 GLM-5.3 六分"。（VentureBeat）
+- **Mistral 开放万亿参数模型权重，主攻网络安全**：Mistral 公开其万亿参数大模型的权重，面向安全领域应用场景。（TechCrunch）
+- **OpenAI 投资的 Thrive Holdings 收购家庭安防公司 ADT**：一家与 OpenAI 关联的企业完成对 ADT 的收购。（TechCrunch）
+- **Meta 低调上线 AI 时尚应用 Style Sketch**：Meta 悄然发布一款由 AI 驱动的时尚类应用。（TechCrunch）
+- **Deepgram 收购 Pipecat 母公司 Daily，强化语音 AI 基础设施**：Deepgram 通过收购 Daily 增强其语音 AI 后端能力。（TechCrunch）
+- **构建迷你应用的 AI 智能体 Wabi 新一轮融资后估值达 12.5 亿美元**：这款可构建小型应用的 AI 智能体在最新融资后达到 12.5 亿美元估值。（TechCrunch）
+- **前 Palantir 高管创办 Dream，获 a16z 1700 万美元打造建筑业 AI 世界模型**：几位前 Palantir 高管获 a16z 投资，专注建筑行业的 AI 建模。（TechCrunch）
+- **Rivian 扩大与大众合资合作，新增 AI 助手**：这家电动车制造商拓展与大众的合作，加入 AI 助手功能。（TechCrunch）
+- **亚马逊更新 Alexa，支持管理购物清单、订阅与配送指示**：Alexa 新增管理购物、订阅与配送的功能。（TechCrunch）
+- **美国曾调查针对英伟达 CEO 的中国间谍活动**：美方曾就一起据称针对英伟达首席执行官的间谍图谋展开调查。（TechCrunch）
+- **AWS 将成万亿美元业务，但 Jassy 称需先大举投入**：亚马逊 CEO 预计 AWS 将大幅增长，同时发出前期重投资的信号。（TechCrunch）
+- **搜索流量枯竭，Reddit 宣布转向登录态体验**：随着搜索引流下滑，Reddit 转向要求用户登录的模式。（TechCrunch）
+
+## 2026-10-28
+
+- **谷歌推出 Gemini 4 Carbon，在更严苛的新基准上重夺全球第一**：Gemini 4 Carbon 登顶基准测试，但在专业任务上落后对手，且幻觉率高于前代 Argon，访问权限受限。（VentureBeat）
+- **GitHub Copilot Fusion 混合多模型，以半价实现接近 Opus 5.5 的编码性能**：该模型混合方案以更低成本实现强劲编码效果，并支持跨设备（含移动端）续作。（VentureBeat）
+- **Anthropic 的 AI for Science 计划扩展至更多基金会与研究机构**：Anthropic 扩大其 AI for Science 项目，重点介绍全球合作的 20 家科学基金会、机构与研究团队。（Anthropic）
+- **Anthropic 推出工具，帮助企业看清 AI 支出究竟买到了什么**：Anthropic 发布新工具，协助企业追踪 AI 投资的价值回报。（TechCrunch）
+- **微软首次公布 Azure 实际营收：332 亿美元**：微软首度披露 Azure 的具体营收数字。（TechCrunch）
+- **微软录得来自 OpenAI 的 100 亿美元营收**：微软报告称与 OpenAI 合作相关的营收规模可观，并连续 10 个季度创下营收纪录。（TechCrunch）
+- **谷歌全球扩展 AI 搜索广告，以应对核心广告增长放缓**：谷歌在核心广告营收放缓之际，将 AI 驱动的搜索广告推向全球。（TechCrunch）
+- **随 AI 智能体重塑网络，谷歌向更多应用开放 Gemini 与搜索**：谷歌在 AI 智能体改变网络使用方式之际，拓宽 Gemini 与搜索的集成。（TechCrunch）
+- **Chrome 的 AI 自动填充可读取 Gmail 内容来填写表单**：Chrome 的自动填充功能现可从 Gmail 调取数据以完成表单。（TechCrunch）
+- **英伟达发布新的开源转录模型，语音 AI 走热**：英伟达在语音 AI 需求增长之际，发布了一款新的开源转录模型。（TechCrunch）
 
 ## 2026-10-27
 
