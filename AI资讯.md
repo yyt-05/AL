@@ -1,11 +1,40 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-02
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-11-02
+
+- **MIT 用 GPT-6 Astra 直接编辑 Qwen 开源权重，数学性能大增**：研究者形容此举"如同为神经网络做基因编辑"，仅改动极小比例参数便显著提升小型 Qwen 模型在 MATH-500 上的表现。（VentureBeat）
+- **Anthropic 警告其已非常接近 RSI（递归自我改进）能力，即"自建 AI"**：公司表示其系统正逼近可自我改进、自我构建的阶段。（TechCrunch）
+- **42AI 带 6250 万美元融资走出隐身期，推出可"预测人类行为"的世界模型**：这家新亮相的初创公司以融资与行为预测模型登场。（TechCrunch）
+- **Y Combinator 掌门人 Garry Tan 重度使用 AI 智能体，每年 token 花费最高达 20 万美元**：Tan 透露个人对 AI 智能体的使用开销惊人。（TechCrunch）
+- **Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型**：这家初创公司获得资金，旨在向非工程人员开放模型训练能力。（TechCrunch）
+- **苹果 Apple Watch 开启会话回放与摘要 AI 功能的 Beta 测试**：苹果开始测试可回放并总结对话的腕表新功能。（TechCrunch）
+- **谷歌将 AI 生成个人故事产品 Dreambeans 推向印度市场**：谷歌把其 AI 叙事产品扩展至印度，面向大众推广。（TechCrunch）
+- **苹果据报探索通过第三方 AI 应用增加营收的方式**：苹果正研究如何借助第三方 AI 应用获取新的收入来源。（TechCrunch）
+- **Omen AI 以 1600 万美元收购 Aquatic Labs，补强相关技术能力**：Omen AI 通过此次收购增强自身实力。（TechCrunch）
+- **OpenAI 整合 ChatGPT 的 Chat 与 Work 两个标签页**：OpenAI 将原本分离的两个 ChatGPT 界面合并为一个。（TechCrunch）
+- **马斯克以成本"高到不可持续"为由收紧 Grok 使用限额**：马斯克因运营开支过高而下调 Grok 的使用上限。（TechCrunch）
+
+## 2026-11-01
+
+- **OpenAI 或将数据中心重新命名为"AI 算力园区"（AI compute campuses）**：OpenAI 据报考虑为其设施更换新称谓。（TechCrunch）
+- **AI 可以让科技公司 CEO 的生活更轻松，那其他人呢？**：一篇评论质疑 AI 进步究竟让谁真正受益。（TechCrunch）
+
+## 2026-10-31
+
+- **开源权重模型越来越便宜也越来越强，如何在不承担自托管成本的前提下使用它们**：文章认为开源与闭源模型可服务于不同市场并长期共存，挑战"赢者通吃"的论调。（VentureBeat）
+- **英伟达考虑为 Nscale 位于西弗吉尼亚的 AI 数据中心充当"联署担保方"**：英伟达权衡是否为 Nscale 的新建设施提供背书。（TechCrunch）
+- **主打隐私的 AI 助手 Ollie 宣布关停**：这款注重隐私的助手停止运营。（TechCrunch）
+- **Anthropic 预计 IPO 后将被信用评级机构给予较高的"垃圾级"评级**：有报道称该公司上市后或获较低信用评级。（TechCrunch）
+- **AI 支出热潮开始显现裂痕**：有迹象表明 AI 投资趋势出现放缓信号。（TechCrunch）
+- **Theranos 吹哨人 Tyler Shultz 警告：AI 热潮是"欺骗他人的大好机会"**：Shultz 提醒业界警惕 AI 浪潮中的欺诈风险。（TechCrunch）
+- **谷歌首颗数据中心卫星上线，并开始"写诗"**：谷歌的在轨 TPU 卫星投入运行。（TechCrunch）
 
 ## 2026-10-30
 
