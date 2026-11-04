@@ -1,11 +1,54 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-04
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-11-04
+
+- **Anthropic 发布新公告**：Anthropic 在其官方新闻页更新了 11 月 4 日的最新动态。（Anthropic）
+
+## 2026-11-03
+
+- **Anthropic 研发 AI 模型"身份证明"系统**：Anthropic 正在开发一套用于验证 AI 模型真实身份的机制，以确认模型来源与可信度。（TechCrunch）
+- **AI 推理初创公司 Fal 估值翻倍至 160 亿美元**：在推理需求激增的推动下，Fal 的估值跃升至 160 亿美元。（TechCrunch）
+- **数据中心改用退役喷气发动机发电以应对电力短缺**：在电网接入等待时间拉长之际，部分数据中心开始改装退役喷气发动机来供电。（TechCrunch）
+- **Ted Schlein 旗下 Ballistic Ventures 拟募资 4.9 亿美元，押注 AI 安全热潮**：在 AI 驱动的网络安全需求升温之际，该风投机构计划募集近 5 亿美元新基金。（TechCrunch）
+- **帕兰提尔（Palantir）亮眼季报背后暗含隐忧信号**：尽管季度业绩强劲，分析人士指出其中潜藏着值得警惕的预警迹象。（TechCrunch）
+- **Netflix 新增 AI "Discover" 标签，按心情为你推荐内容**：Netflix 推出基于用户心情的 AI 推荐功能，帮助用户决定观看内容。（TechCrunch）
+- **Anthropic 仍在为算力经济性发愁**：Anthropic 继续面对算力成本结构方面的挑战。（TechCrunch）
+- **谷歌允许学校关闭其 AI 工具，但须以放弃搜索为代价**：学校可关停谷歌的 AI 功能，但同时会失去搜索访问权限。（TechCrunch）
+
+## 2026-11-02
+
+- **Anthropic 警告其已非常接近 RSI（递归自我改进）能力，即"自我构建型 AI"**：Anthropic 提醒称，其技术正逼近 AI 能够自行构建改进的临界点。（TechCrunch）
+- **MIT 研究者用 GPT-6 Astra 直接编辑 Qwen 开源权重，称"如同神经网络的基因编辑"**：研究团队采用"权重空间编程"技术，仅改动极小比例权重即大幅提升了 Qwen 模型的数学基准得分。（VentureBeat）
+- **42AI 走出隐身状态，携 6250 万美元融资与可"预测人类行为"的世界模型亮相**：这家初创公司带着融资与行为预测模型正式登场。（TechCrunch）
+- **Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型**：该公司获得融资，致力于降低模型训练门槛。（TechCrunch）
+- **《纽约时报》等媒体起诉 Brave 浏览器涉嫌抓取内容**：多家新闻机构就内容抓取指控对 Brave 提起诉讼。（TechCrunch）
+- **OpenAI 终于合并 ChatGPT 的 Chat 与 Work 两个标签页**：OpenAI 将 ChatGPT 的两个界面标签统一为一体。（TechCrunch）
+- **苹果将交友类应用与 AI 伴侣限制为 18 岁以上用户使用**：苹果对约会及 AI 陪伴类应用施加年龄限制。（TechCrunch）
+- **苹果手表 AI 功能开启 Beta 测试，可回放并总结对话**：苹果开始测试可重温与概括对话的 Apple Watch AI 工具。（TechCrunch）
+- **谷歌将 Dreambeans 带入印度，向大众推广 AI 生成的个人故事**：谷歌把其 AI 叙事产品拓展至印度市场。（TechCrunch）
+- **马斯克因成本"高得不可持续"收紧 Grok Bot 使用上限**：马斯克以成本考量为由限制 Grok Bot 的使用额度。（TechCrunch）
+- **Omen AI 以 1600 万美元收购 Aquatic Labs，补强液冷技术**：Omen AI 通过收购获得液冷相关能力。（TechCrunch）
+- **Y Combinator 掌门 Garry Tan 重度使用 AI 智能体，一年 token 开销高达 20 万美元**：据报道，这位 YC 负责人每年在运行 AI 智能体上花费巨大。（TechCrunch）
+
+## 2026-11-01
+
+- **OpenAI 或将数据中心更名为"AI 算力园区"（AI compute campuses）**：OpenAI 正考虑为其数据中心重新命名。（TechCrunch）
+- **AI 让科技公司 CEO 的工作更轻松，但其他人呢？**：一篇评论探讨了 AI 收益究竟惠及了哪些人群。（TechCrunch）
+- **观点：开源权重 AI 模型正变得更便宜也更强**：评论文章认为开源与闭源模型服务于不同市场，并非赢家通吃，并给出无需自行部署即可使用的建议。（VentureBeat）
+
+## 2026-10-31
+
+- **OpenAI 据报下调新一轮融资目标金额**：OpenAI 被曝在最新一轮融资中降低了拟募集的金额。（TechCrunch）
+- **苹果 CEO 称公司"不想为了 AI 而做 AI"**：苹果首席执行官强调要有目的地部署 AI，而非盲目跟风。（TechCrunch）
+- **法官裁定 NAACP 诉 xAI 数据中心污染案可继续推进**：法院准许 NAACP 针对 xAI 数据中心污染的诉讼继续审理。（TechCrunch）
+- **数据中心成为中期选举议题，连布鲁克林也不例外**：在中期选举中，数据中心议题日益受到关注。（TechCrunch）
 
 ## 2026-10-30
 
