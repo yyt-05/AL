@@ -1,11 +1,28 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-01
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-11-01
+
+- **Credit Saison 在 ChatGPT Enterprise 试点中实现 954% 投资回报率**：这家金融机构披露其 ChatGPT Enterprise 试点取得 954% 的 ROI，并据此推动全公司范围的采用。（OpenAI）
+- **OpenAI 发布《ChatGPT 扩展中的工作世界》报告**：OpenAI 基于 Signals 数据分析了近 100 个国家、165 项工作活动，揭示人们如何将 ChatGPT 用于工作以及用法随时间的变化。（OpenAI）
+- **Fanatics 借助 OpenAI 优化球迷购物体验**：Fanatics 利用 OpenAI 的"Shop the Look"帮助球迷搭配球赛日装扮，在约 3 万件 MLB 商品上的测试显示互动率提升 10%。（OpenAI）
+- **研究提出 OpenFrontiers 科学再发现基准**：该跨学科资源汇集 12,151 个开放研究问题的结构化语料，并构建了针对近期已解决数学问题的回溯性基准，用于评测大模型在研究级问题上的能力。（arXiv cs.AI）
+- **WebAnything：从真实网页自动构建可扩展的智能体环境**：该框架无需逐站点人工实现即可从真实 URL 自动重建可复用、源可溯的 Web 环境，用于网页智能体的可复现训练与评测。（arXiv cs.AI）
+
+## 2026-10-31
+
+- **苹果 CEO 称公司"不想为了 AI 而做 AI"**：苹果首席执行官强调采取审慎、以用途为导向的方式添加 AI 功能，而非仓促推出。（TechCrunch）
+- **法官裁定 NAACP 诉 xAI 数据中心污染案可继续推进**：法院准许就 xAI 位于孟菲斯的数据中心环境污染问题提起的诉讼继续进行。（TechCrunch）
+- **OpenAI 据报调低新一轮融资目标**：有报道称 OpenAI 下调了其最新一轮融资的目标金额。（TechCrunch）
+- **开源权重模型愈发价廉物美，无需自行承担运行成本即可使用**：VentureBeat 认为将开源与专有模型之争视为"赢家通吃"是误读，二者可服务于不同市场，并给出在不自建算力的前提下用好开源权重模型的建议。（VentureBeat）
+- **OpenAI 支持共享 robots.txt 信号，助网站表达 AI 训练偏好**：OpenAI 将遵循一项共享的 robots.txt 信号，帮助网站运营者向参与的 AI 提供商传达其训练数据使用偏好。（OpenAI）
+- **OpenAI 发布社区安全报告，并为青少年推出新保护措施**：OpenAI 通过扩展的防护机制、更早的干预以及公开安全报告的承诺，强化 ChatGPT 的暴力预防能力。（OpenAI）
 
 ## 2026-10-30
 
