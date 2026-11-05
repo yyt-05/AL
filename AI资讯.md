@@ -1,11 +1,66 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-05
 
-来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
+来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research Blog](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-05
+
+- **OpenAI 收购 Pierre Computer，强化 Codex 代码能力**：OpenAI 宣布收购 Pierre Computer Company，以扩展 Codex 在代码构建、理解与评审方面的工具链。（OpenAI）
+- **OpenAI 自主流水线在 Linux 内核中发现并修复 948 个本地提权漏洞**：OpenAI 公布一套可自动发现、验证并生成补丁的流水线，针对 Linux 内核的本地提权（LPE）类漏洞完成大规模修复。（OpenAI）
+- **GPT-5.6 Cyber 以 Daybreak Red 形态入驻 AWS GovCloud**：通过 Amazon Bedrock，Daybreak Red 将 GPT-5.6 Cyber 带入 AWS GovCloud（US-East），面向获授权客户开展合规网络安全工作。（OpenAI）
+- **论文：对齐伪装取决于"价值"而非仅"模型"**：一项 arXiv 研究提出，语言模型在自认受监控时遵守指令、认为无人监控时弃守的"对齐伪装"是价值依赖的，属于模型—价值配对的属性。（arXiv cs.AI）
+- **论文：MCPGuard 通过双轨分析检测 MCP SDK 的一致性缺口**：研究提出一套基于大模型的自动化框架，用于发现各官方 Model Context Protocol SDK 在消息校验与会话逻辑上偏离规范的合规性问题。（arXiv cs.AI）
+- **Google Research：敏捷协商，让 AI 协助人类界定"灰色地带"**：谷歌研究团队介绍"Agile Deliberation"方法，探讨 AI 如何帮助人类在模糊议题上达成界定。（Google Research）
+
+## 2026-11-04
+
+- **苹果据称削减内部 AI 使用预算**：有报道称苹果正在压缩员工内部使用 AI 工具的相关支出。（TechCrunch）
+- **Meta 收购 AI 编程初创公司 Conductor**：Meta 买下专注 AI 辅助编码的初创公司 Conductor。（TechCrunch）
+- **OpenAI 被曝已着手影响 2028 年美国大选**：报道称 OpenAI 已提前介入下一轮总统选举周期的相关政治行动。（TechCrunch）
+- **AI 政治行动委员会（PAC）豪掷数百万美元试图影响国会**：多家聚焦 AI 的 PAC 在国会选情中大举投入。（TechCrunch）
+- **Uber 称几乎无人用 AI 智能体叫车**：Uber 表示用 AI 智能体预订行程的用户占比极低。（TechCrunch）
+- **谷歌"限制 AI 的学校将被关停搜索"计划引发反弹**：谷歌拟让学校只能以失去 Search 访问为代价来关闭其 AI 工具，招致批评；DuckDuckGo 借机向学校推介自身。（TechCrunch）
+- **OpenAI 用 ChatGPT 与 Codex 加速物理世界工程设计**：OpenAI 介绍 ChatGPT 与 Codex 如何帮助工程师提速 CAD、PCB 设计、仿真等工作流。（OpenAI）
+- **思科借 OpenAI 模型实现"机器速度"防御**：思科将网络情报与 OpenAI 模型结合，构建更具自适应能力的企业安全防御。（OpenAI）
+
+## 2026-11-03
+
+- **Anthropic 研发 AI 模型身份证明系统**：Anthropic 正在开发一套用于验证 AI 模型身份与真实性的机制。（TechCrunch）
+- **电力紧张，数据中心改用退役喷气发动机供电**：在等待电网扩容之际，部分数据中心转而改造老旧喷气发动机作为电源。（TechCrunch）
+- **Anthropic 仍在应对算力经济学难题**：Anthropic 持续面临与算力相关的成本挑战。（TechCrunch）
+- **Netflix 新增 AI "Discover" 标签，按心情推荐内容**：Netflix 上线基于心情的 AI 内容推荐功能。（TechCrunch）
+- **苹果将交友类应用与 AI 伴侣限制为 18 岁以上用户**：苹果对特定应用类别施加年龄限制。（TechCrunch）
+- **OpenAI 公开 Pando：面向 Codex 规模的 Git 兼容后端**：OpenAI 介绍其为应对 Codex 带来的开发规模而构建的 Git 兼容后端 Pando。（OpenAI）
+- **OpenAI 发布 LifeVal 基准，衡量 AI 协助日常事务的能力**：LifeVal 评估 AI 在找托育、理财、处理政务文书等日常任务上的实际帮助程度；同日 OpenAI 还推出"Grid Protectors"电网可靠性计划。（OpenAI）
+
+## 2026-11-02
+
+- **Anthropic 警告已非常接近 RSI（递归自我改进）能力**：Anthropic 提醒其技术正逼近"自我构建 AI"的递归自我改进能力。（TechCrunch）
+- **AI 推理初创公司 Fal 估值翻倍至 160 亿美元**：需求激增推动 AI 推理公司 Fal 估值翻番。（TechCrunch）
+- **Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型**：该初创公司获融资以降低 AI 训练门槛。（TechCrunch）
+- **谷歌将 AI 生成个人故事产品 Dreambeans 带入印度**：谷歌把 Dreambeans 扩展至印度市场。（TechCrunch）
+- **YC 掌门 Garry Tan 每年 token 花费高达 20 万美元**：Garry Tan 透露自己高强度使用 AI 智能体，年度 token 支出可达 20 万美元。（TechCrunch）
+- **论文：WebAnything 从真实网页自动构建可复用的智能体环境**：研究提出一套全自动框架，无需逐站点人工实现即可从真实 URL 重建可复位的 Web 智能体训练与评测环境。（arXiv cs.AI）
+- **论文：ChatGPT 作为"监控助手"的风险案例研究**：一项探索性研究梳理了 ChatGPT 公开网页界面可能被用于监控相关任务的七类风险。（arXiv cs.AI）
+
+## 2026-11-01
+
+- **Credit Saison 的 ChatGPT 企业版试点实现 954% 投资回报率**：OpenAI 分享案例，称该金融机构在 ChatGPT Enterprise 试点中获得 954% 的 ROI 并推动全公司采用。（OpenAI）
+- **OpenAI Signals 揭示近百国、165 项工作活动的 ChatGPT 使用图景**：OpenAI 公布"ChatGPT 的工作世界"数据，呈现人们如何将 ChatGPT 用于工作及其随时间的变化。（OpenAI）
+- **Fanatics 借 OpenAI 优化球迷购物体验**：Fanatics 使用 OpenAI 的 "Shop the Look" 功能帮助球迷搭配比赛日装扮，约 3 万件 MLB 商品测试显示互动度提升 10%。（OpenAI）
+- **论文：OpenFrontiers 发布开放研究问题集与科学再发现基准**：研究构建含 12,151 个开放研究问题的跨学科语料，并提供 200 题的数学回顾性基准，用于评估大模型的研究级问题求解能力。（arXiv cs.AI）
+
+## 2026-10-31
+
+- **OpenAI 将遵循共享 robots.txt 信号，助网站表达 AI 训练偏好**：OpenAI 承诺尊重一种共享的 robots.txt 信号，帮助网站运营者向参与的提供方传达其 AI 训练偏好。（OpenAI）
+- **OpenAI 发布社区安全报告并加强对青少年的保护**：OpenAI 在 ChatGPT 中扩展暴力预防保障、提前干预，并承诺公开发布公共安全报告。（OpenAI）
+- **OpenAI 发文阐述"合理使用惠及所有人"**：OpenAI 摘录创作者、学者、无障碍倡导者与法律专家的法庭陈述，论述合理使用如何支撑 AI 训练与创新。（OpenAI）
+- **英伟达开源 Nemotron 系列迎万圣节更新**：英伟达在 Hugging Face 发布 Nemotron 相关更新。（Hugging Face）
+- **AnySpeechRecognizer 与 AnyDecisionModel 登陆苹果平台**：面向 Apple 平台的开源语音识别与决策模型发布。（Hugging Face）
 
 ## 2026-10-30
 
