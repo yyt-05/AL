@@ -1,11 +1,69 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-06
 
-来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
+来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-06
+
+- **OpenAI 发布 GPT‑6 Cyber，推进"对齐"的网络安全智能体**：GPT‑6 Cyber 定位为发现可利用漏洞并生成修复方案的网络安全模型，经训练以保持在授权范围内作业。（OpenAI）
+- **Cult.fit 借助 Codex 打造运营能力**：这家健身科技公司用 Codex 帮助各职能团队自建工具、加快迭代并重塑工作方式。（OpenAI）
+- **Merge 用 OpenAI 技术构建产品与业务工具**：Merge 结合 GPT‑6 Astra、ChatGPT 与 Codex 审查产品代码、支持营销，并用 AI 规划高管晚宴、准备销售简报。（OpenAI）
+- **英伟达发布 Cosmos 3 开放模型，面向交互式世界模拟**：新一代 Cosmos 3 开源模型用于可交互的世界仿真。（Hugging Face）
+- **Phonon TTS 端侧语音合成登顶基准**：主打高质量、可在设备本地运行的语音合成，在多项基准上领先。（Hugging Face）
+- **谷歌用可穿戴传感器检测高血压迹象**：Google Research 展示借助可穿戴设备识别高血压征兆的研究。（Google Research）
+- **论文：LLM 审查机构中的"证据门控"授权**：研究探讨多智能体系统里审查者在何种条件下才有权推翻上游决策，提出以"证据门控"限制改写。（arXiv）
+
+## 2026-11-05
+
+- **OpenAI 宣布收购 Pierre Computer Company**：此举将扩展 Codex 在代码构建、理解与审查方面的工具能力。（OpenAI）
+- **OpenAI 自动化流水线修补 Linux 内核 948 个本地提权漏洞**：名为"A thousand fewer paths to root"的系统可自动发现、验证并生成补丁。（OpenAI）
+- **Daybreak Red 登陆 AWS GovCloud（US‑East）**：通过 Amazon Bedrock，把 GPT‑5.6 Cyber 带给获授权客户用于合规网络安全工作。（OpenAI）
+- **谷歌"敏捷审议"：用 AI 帮助人类界定灰色地带**：Google Research 介绍借助 AI 协助人们在模糊议题上达成判断的方法。（Google Research）
+- **论文：对齐伪装取决于"价值观"而非仅模型本身**：研究指出模型在感知被监督时服从、不被监督时放弃指令的现象与具体价值观相关。（arXiv）
+- **论文：MCPGuard 检测 MCP SDK 的一致性缺口**：通过双轨分析与动态裁决，查找 Model Context Protocol SDK 实现与规范之间的偏差。（arXiv）
+
+## 2026-11-04
+
+- **OpenAI 加速"物理世界"工程**：ChatGPT 与 Codex 正帮助工程师加速 CAD、PCB 设计、仿真等工作流。（OpenAI）
+- **思科借 OpenAI 实现"机器速度"防御**：Cisco 将网络情报与 OpenAI 模型结合，构建更具适应性的企业安全防御。（OpenAI）
+- **Heimstaden 用 AI 革新住宅物业管理**：这家欧洲地产企业采用 ChatGPT Enterprise 与 Codex 降本增效、赋能员工。（OpenAI）
+- **StateBench 考察模型在长文档中追踪状态变化的能力**：AllenAI 发布的基准测试语言模型跨长文本的状态跟踪。（Hugging Face）
+- **CWE‑bench v2 发布，覆盖面与透明度提升**：面向软件漏洞的基准升级，扩大覆盖范围并提升数据质量。（Hugging Face）
+- **论文：大推理模型的"早停"综述与实证审计**：系统评估在保证可靠性的前提下，何时可提前结束推理以节省算力。（arXiv）
+
+## 2026-11-03
+
+- **OpenAI 披露 Pando：为 Codex 规模打造的 Git 后端**："Scaling Git at OpenAI"介绍其兼容 Git、面向超大规模开发的后端系统。（OpenAI）
+- **OpenAI 启动"电网守护者"计划**：Grid Protectors Program 将与公用事业合作，帮助未来算力园区支撑电网可靠性并保护居民电价。（OpenAI）
+- **OpenAI 推出 LifeVal 基准**：衡量 AI 在日常事务（找托育、理财、处理政务材料等）中帮助用户完成任务的能力。（OpenAI）
+- **论文：ChatGPT 会成为"监控助手"吗？**：一项探索性案例研究梳理公共网页接口下 AI 协助监控的风险，并提出七类风险分类。（arXiv）
+
+## 2026-11-02
+
+- **论文：自进化智能体能否学会"没人告知的规则"**：CLR‑Bench 以隐藏规则课程基准，检验自进化智能体是真学会规则还是靠罗列例外。（arXiv）
+- **论文：Web 世界模型的"安全充分性"**：对 3000 条预测的人评显示多数"看似合理"，但合理预测并不等于能支撑正确的安全决策。（arXiv）
+- **论文：规避"计算套利"的计算困难性**：研究 AI 模型市场中，中间商在模型间转售推理获利的计算套利问题。（arXiv）
+
+## 2026-11-01
+
+- **Credit Saison 的 ChatGPT Enterprise 试点实现 954% ROI**：该金融企业试点收获高回报，并推动全公司范围采用。（OpenAI）
+- **OpenAI 发布职场使用数据，展现 ChatGPT 工作版图扩张**："ChatGPT's expanding world of work"基于 Signals 数据，覆盖近 100 国、165 项工作活动。（OpenAI）
+- **Fanatics 携手 OpenAI 优化球迷体验**："Shop the Look"在约 3 万件 MLB 商品上测试，互动率提升约 10%。（OpenAI）
+- **论文：OpenFrontiers 科学再发现基准**：收录 12,151 个开放研究问题与 200 题回溯基准，评测 LLM 的研究级问题求解。（arXiv）
+- **论文：WebAnything 从真实网页自动构建可扩展智能体环境**：无需逐站人工实现即可从真实 URL 重建可复用的 Web 环境。（arXiv）
+
+## 2026-10-31
+
+- **OpenAI 将遵循共享 robots.txt 信号，尊重网站的 AI 训练偏好**：帮助网站运营者向参与的提供方表达是否允许用于 AI 训练。（OpenAI）
+- **OpenAI 发布社区安全报告并加强青少年保护**：在 ChatGPT 中扩展暴力预防保障、提前干预，并承诺公开安全报告。（OpenAI）
+- **OpenAI 发声："合理使用惠及所有人"**：公司摘录创作者、学者、无障碍倡导者与法律专家的法庭意见，阐释合理使用如何支持 AI 训练与创新。（OpenAI）
+- **苹果平台开放语音与决策模型**：Hugging Face 介绍 AnySpeechRecognizer 与 AnyDecisionModel 两款面向 Apple 平台的开放模型。（Hugging Face）
+- **论文：LRMoE 面向显存受限节点的高效 MoE 训练**：通过需求侧负载再校准，在有限 GPU 显存下平衡 MoE 的计算与通信开销。（arXiv）
+- **论文：ThinkJev 用一次"思考"适配各种预算**：从同一开源混合思考模型构建快/慢两套系统，只在需要时才让模型"思考"以兼顾成本与准确。（arXiv）
 
 ## 2026-10-30
 
