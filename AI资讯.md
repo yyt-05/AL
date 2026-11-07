@@ -1,11 +1,63 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-07
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
 
 ---
+
+## 2026-11-06
+
+- **OpenAI 据称新增融资 110 亿美元，估值达 1.25 万亿美元**：报道称 OpenAI 在新一轮融资中再募 110 亿美元，公司估值攀升至 1.25 万亿美元。（TechCrunch）
+- **OpenAI 发布 GPT-6 Cyber，主打漏洞研究，API 定价高于 Anthropic 与谷歌**：该模型强化了漏洞挖掘与利用研究能力，但接口价格较竞品更高。（VentureBeat）
+- **OpenAI 携手 Hacktron 排查自身系统漏洞**：OpenAI 宣布与 Hacktron 合作，利用前沿 AI 发现漏洞、测试第三方服务连接并强化防御。（OpenAI）
+- **Crusoe 将陷入困境的怀俄明州数据中心项目出售给谷歌**：Crusoe 把一处进展受阻的数据中心项目转让给谷歌。（TechCrunch）
+- **Meta 推出 Spaces，支持与 Muse 智能体协作**：Meta 发布名为 Spaces 的新功能，让用户与其 Muse 智能体协同工作。（TechCrunch）
+- **Ramp 数据显示：Anthropic 临近 IPO 之际，AI 支出增长趋于停滞**：支出平台 Ramp 的数据表明，企业 AI 开支增速放缓。（TechCrunch）
+- **数百款 Artex AI 黑客工具被发现公开暴露在互联网上**：安全人员发现大量 Artex AI 的黑客工具处于无保护的公开暴露状态。（TechCrunch）
+- **亚马逊在封禁 Muse 后，开放用户通过短信让 Alexa 协助购物**：亚马逊允许用户以短信方式调用 Alexa 完成购物。（TechCrunch）
+- **Thinking Machines 发布 Inkling 2 Small，在企业基准上接近前沿水平**：该小型模型在多项企业基准测试中表现逼近前沿模型。（VentureBeat）
+
+## 2026-11-05
+
+- **OpenAI 总裁 Brockman 称公司最早 2027 年具备 IPO 条件**：Greg Brockman 表示 OpenAI 有望在 2027 年做好上市准备。（TechCrunch）
+- **OpenAI 发布新网络安全模型，但其成效引发讨论**：OpenAI 推出一款面向网络安全的新模型，外界质疑其能力是否足够。（TechCrunch）
+- **Claude 新增"个人理财"工具，可分析用户支出**：Anthropic 的 Claude 推出个人财务功能，帮助用户分析消费情况。（TechCrunch）
+- **Palo Alto Networks 洽谈以 5 亿美元收购 AI 智能体安全初创 Clutch**：这家网络安全巨头正商谈收购专注智能体安全的 Clutch。（TechCrunch）
+- **Airbnb 宣布将于 2027 年上半年推出 AI 旅行助手**：Airbnb 计划在明年上半年上线 AI 驱动的旅行代理功能。（TechCrunch）
+- **Meta 开放美国用户与 Muse AI 虚拟形象视频通话**：Meta 允许美国用户与其 Muse AI 化身进行视频对话。（TechCrunch）
+- **Dropbox 以 3.5 亿美元收购 Tigris Data，强化 AI 基础设施**：Dropbox 通过收购 Tigris Data 增强其 AI 底层能力。（TechCrunch）
+- **AWS 推出具备记忆能力的智能体 Kiro bots，支持重复性开发任务**：亚马逊云新增可记忆、可处理周期性开发工作的智能体。（VentureBeat）
+- **前谷歌员工发布 Apache 2.0 模型 Ripple-65B 预览版，称登顶美国开源编码榜**：该开源模型宣称在两项主流基准上领跑美国开源编码领域。（VentureBeat）
+
+## 2026-11-04
+
+- **苹果据称削减内部 AI 使用预算**：报道称苹果正在压缩其内部 AI 应用的相关预算。（TechCrunch）
+- **OpenAI 已着手布局 2028 年美国大选**：有报道指出 OpenAI 开始为 2028 年选举施加影响。（TechCrunch）
+- **Meta 收购 AI 编码初创公司 Conductor**：Meta 完成对 AI 编码公司 Conductor 的收购。（TechCrunch）
+- **AI PAC 斥资数百万试图左右国会，结果几何**：多个 AI 政治行动委员会投入巨资影响国会选举，成效各异。（TechCrunch）
+- **AI 竞赛推高企业账单：从 GPU、内存到 Microsoft 365**：报道指出 AI 竞赛正全面抬升企业在算力、内存与软件订阅上的支出。（VentureBeat）
+- **研究显示：AI 团队在 75% 的辩论中达成错误共识，低 token 成本掩盖了失败**：一项研究发现多智能体协作常趋同于错误答案，而更低的推理成本掩盖了问题。（VentureBeat）
+
+## 2026-11-03
+
+- **电力供应紧张，数据中心转而启用退役喷气发动机发电**：随着并网等待期拉长，部分数据中心开始使用旧喷气发动机供电。（TechCrunch）
+- **纽约市当选市长 Mamdani 批评麦迪逊广场花园东家滥用监控技术**：Mamdani 就场馆运营方使用人脸识别等监控技术提出批评。（TechCrunch）
+
+## 2026-11-02
+
+- **Anthropic 警告：公司已非常接近"递归自我改进"（RSI）能力**：Anthropic 表示其模型正逼近能够自我构建的 RSI 门槛。（TechCrunch）
+- **《纽约时报》等媒体起诉浏览器 Brave，指控内容抓取**：多家新闻机构就涉嫌内容爬取对 Brave 浏览器提起诉讼。（TechCrunch）
+- **MIT 研究者用 GPT-6 Astra 直接编辑 Qwen 开源权重，提升数学能力**：研究团队形容此举"如同为神经网络做基因编辑"，直接改写权重以增强数学表现。（VentureBeat）
+
+## 2026-11-01
+
+- **开源权重模型愈发价廉物美：如何在不自建算力的情况下使用**：VentureBeat 分析了在不承担自运行成本的前提下使用开源权重模型的方法。（VentureBeat）
+
+## 2026-10-31
+
+- **开源权重 AI 模型持续降价增质**：围绕开源权重模型成本与性能改善的讨论持续升温。（VentureBeat）
 
 ## 2026-10-30
 
