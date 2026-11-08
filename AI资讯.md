@@ -1,11 +1,64 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-10-30
+> 最后更新：2026-11-08
 
-来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)
+来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-08
+
+- **OpenAI 发布《负责任 AI 基础设施新标准》**：OpenAI 推出"国家社区契约"（National Community Compact）与"算力园区政策蓝图"，旨在保护本地资源、创造就业并引导负责任的 AI 基础设施建设。（[OpenAI](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)）
+- **富兰克林邓普顿借 OpenAI 支持投研**：资管巨头 Franklin Templeton 从股票研究入手，构建 AI 工作流帮助基金经理比较研究观点、审视投资风险。（[OpenAI](https://openai.com/index/franklin-templeton)）
+
+## 2026-11-07
+
+- **OpenAI 携手 Hacktron 排查系统漏洞**：双方合作，用前沿 AI 发现漏洞、测试与第三方服务的连接并强化防御。（[OpenAI](https://openai.com/index/partnering-with-hacktron)）
+- **OpenAI 推出 BioBasicsBench 湿实验室科学基准**：这一含 100 项任务的基准，用于衡量 AI 智能体解读原始实验数据、处理日常湿实验室科学的能力。（[OpenAI](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)）
+- **澳大利亚高校培养"AI 原生"毕业生**：多所澳洲高校扩大 ChatGPT 访问权限、将 AI 融入教学，为 AI 赋能的就业市场储备人才。（[OpenAI](https://openai.com/index/australian-universities-ai-native-graduates)）
+
+## 2026-11-06
+
+- **OpenAI 发布 GPT-6 Cyber 网络安全模型**：该模型用于发现可利用漏洞并生成修复，经训练以严守授权范围内作业。（[OpenAI](https://openai.com/index/introducing-gpt-6-cyber)）
+- **英伟达开源 Cosmos 3 交互式世界模拟模型**：NVIDIA 发布面向交互式世界仿真的新一代开源模型。（[Hugging Face / NVIDIA](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)）
+- **谷歌研究：用可穿戴传感器检测高血压迹象**：Google Research 展示借助可穿戴传感器识别高血压征兆的健康应用。（[Google Research](https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/)）
+
+## 2026-11-05
+
+- **OpenAI 收购 Pierre Computer Company**：此举将扩展 Codex 在代码构建、理解与审查方面的工具能力。（[OpenAI](https://openai.com/index/openai-to-acquire-pierre)）
+- **自主流水线修补 Linux 内核 948 个提权漏洞**：OpenAI 构建的自动化流水线发现、验证并生成了针对 948 个本地提权（LPE）漏洞的补丁。（[OpenAI](https://openai.com/index/a-thousand-fewer-paths-to-root)）
+- **Daybreak Red 登陆 AWS GovCloud**：GPT-5.6 Cyber 通过 Amazon Bedrock 在 AWS GovCloud（US-East）向获批客户开放，用于授权的网络安全作业。（[OpenAI](https://openai.com/index/daybreak-red-aws-govcloud)）
+- **谷歌研究：敏捷协商，AI 协助人类界定灰色地带**：Google Research 探讨 AI 如何帮助人类在模糊议题上达成界定。（[Google Research](https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/)）
+
+## 2026-11-04
+
+- **OpenAI 加速"物理世界"工程**：ChatGPT 与 Codex 开始助力 CAD、PCB 设计、仿真等跨物理世界的工程工作流。（[OpenAI](https://openai.com/index/accelerating-engineering-for-the-physical-world)）
+- **思科以"机器速度"强化企业防御**：思科结合网络情报与 OpenAI 模型，构建更具适应性的企业安全防线。（[OpenAI](https://openai.com/index/cisco-cyber)）
+- **AI2 发布 StateBench**：Allen AI 推出基准，测试语言模型在长文档中追踪状态变化的能力。（[Hugging Face / AI2](https://huggingface.co/blog/allenai/statebench)）
+
+## 2026-11-03
+
+- **OpenAI 披露 Git 扩展方案 Pando**：OpenAI 介绍为 Codex 规模化开发打造的 Git 兼容后端 Pando。（[OpenAI](https://openai.com/index/scaling-git-at-openai)）
+- **OpenAI 启动 Grid Protectors 计划**：该计划将与公用事业合作，帮助未来算力园区保障电网可靠性并保护居民电价。（[OpenAI](https://openai.com/index/grid-protectors-program)）
+- **OpenAI 推出 LifeVal 基准**：用于衡量 AI 在找托育、管理财务、办理政务文书等日常事务上的帮助程度。（[OpenAI](https://openai.com/index/lifeval)）
+
+## 2026-11-02
+
+- **CLR-Bench 评测自演化智能体**：新论文提出"隐藏规则课程"基准，检验自演化智能体能否学会无人告知的规则，而非仅靠罗列例外。（[arXiv](https://arxiv.org/abs/2610.40758)）
+- **Web 世界模型的"安全充分性"研究**：研究指出看似合理的预测未必支撑正确的安全决策，并提出安全充分性评估。（[arXiv](https://arxiv.org/abs/2610.40798)）
+
+## 2026-11-01
+
+- **Credit Saison 的 ChatGPT 企业试点实现 954% ROI**：OpenAI 案例显示其 ChatGPT Enterprise 试点带来 954% 投资回报，并推动全公司采用。（[OpenAI](https://openai.com/index/credit-saison)）
+- **OpenAI Signals 揭示 ChatGPT 的工作版图**：数据覆盖近 100 国、165 项工作活动，呈现人们如何用 ChatGPT 工作及其变化。（[OpenAI](https://openai.com/index/chatgpt-expanding-world-of-work)）
+- **Fanatics 借 OpenAI 优化观赛体验**："Shop the Look" 在约 3 万件 MLB 商品上测试，使互动率提升 10%。（[OpenAI](https://openai.com/index/fanatics-streamline-fan-experience)）
+
+## 2026-10-31
+
+- **OpenAI 将遵循共享 robots.txt 信号表达 AI 训练偏好**：网站运营者可借此向参与的提供方传达其 AI 训练偏好。（[OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences)）
+- **OpenAI 发布社区安全报告并加强青少年保护**：ChatGPT 强化暴力预防，扩展保护措施、提前干预，并承诺公开安全报告。（[OpenAI](https://openai.com/index/community-safety-report-and-new-protections-for-teens)）
+- **OpenAI 阐述"合理使用"立场**：公司发布创作者、学者、无障碍倡导者与法律专家的法庭意见摘要，说明合理使用如何支撑 AI 训练与创新。（[OpenAI](https://openai.com/index/fair-use-benefits-everyone)）
 
 ## 2026-10-30
 
