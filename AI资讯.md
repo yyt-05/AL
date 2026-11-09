@@ -1,16 +1,22 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-09
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
 
+## 2026-11-09
+
+- **耶鲁学者评估黄仁勋职位：大约"五五开"**：耶鲁管理学院的 Jeffrey Sonnenfeld 就英伟达 CEO 黄仁勋的职位是否稳固给出"约 50-50"的判断，相关争议持续发酵。（[TechCrunch](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)）
+- **决策模型只给 JSON、不解释答案，"上下文"成用户难题**：TypeSafe AI、Cloudflare 与 OpenAI 等推出的低延迟决策模型以结构化 JSON 作答而非冗长文本，把补全上下文的负担转移给了使用者。（[VentureBeat](https://venturebeat.com/orchestration/decision-models-like-jev-dont-explain-their-answers-that-makes-context-your-problem)）
+
 ## 2026-11-08
 
 - **OpenAI 发布《负责任 AI 基础设施新标准》**：OpenAI 推出"国家社区契约"（National Community Compact）与"算力园区政策蓝图"，旨在保护本地资源、创造就业并引导负责任的 AI 基础设施建设。（[OpenAI](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)）
 - **富兰克林邓普顿借 OpenAI 支持投研**：资管巨头 Franklin Templeton 从股票研究入手，构建 AI 工作流帮助基金经理比较研究观点、审视投资风险。（[OpenAI](https://openai.com/index/franklin-templeton)）
+- **英伟达将调查黄仁勋与"疑似中国间谍"的关系**：英伟达表示正就 CEO 黄仁勋与一名涉嫌从事间谍活动人士的往来展开调查。（[TechCrunch](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)）
 
 ## 2026-11-07
 
