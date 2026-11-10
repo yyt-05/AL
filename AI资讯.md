@@ -1,11 +1,29 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-10
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-10
+
+- **ChatGPT Enterprise 登陆 AWS Marketplace**：企业版 ChatGPT 现可通过 AWS Marketplace 采购，帮助客户借助既有的 AWS 采购与结算关系简化流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 推出 Control Room 中控系统**：这一中央系统用于追踪其研究基础设施中的模型工作负载，并在出现安全或安全性顾虑时快速终止相关运行。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 Codex 将交付量提升 20 倍**：CodeRabbit 使用 OpenAI 模型来治理与信任 AI 生成的代码，并借助 Codex 让同等规模工程团队的软件交付量提升 20 倍。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **英伟达发布日本金融合成数据集 Nemotron-Personas-Finance-Japan**：该合成数据集刻画日本的人口结构与金融语境，供面向本地化场景的建模与研究使用。（[Hugging Face / NVIDIA](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)）
+- **亚马逊提出高阶专家剪枝方法 HOPE**：研究探索在混合专家（MoE）模型中成对保留协同专家的高阶剪枝策略，以在压缩时兼顾性能。（[Hugging Face / Amazon](https://huggingface.co/blog/amazon/higher-order-pruning-experts)）
+- **谷歌推出 Language Explorer 探索世界语言**：Google Research 发布工具，用于借助自然语言处理技术探索全球语言的多样性。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
+- **arXiv：用案例推理增强学业指导**：论文研究将基于案例的推理（CBR）专家系统应用于高校学业咨询，以改进院校的指导服务。（[arXiv](https://arxiv.org/abs/2611.08572)）
+- **arXiv：NormGym 评测社会交互中的规范能力**：新基准要求"新来者"在完成自身任务的同时，从多智能体交互中推断出隐藏且任意的社会规范，而非套用已知规范。（[arXiv](https://arxiv.org/abs/2611.08613)）
+- **arXiv：基于 LLM 的多准则库存分类特征抽取**：论文提出用大模型从电商供应链的非结构化反馈与运营数据中抽取特征，扩展传统 ABC 与多准则库存分类（MCIC）方法。（[arXiv](https://arxiv.org/abs/2611.08626)）
+
+## 2026-11-09
+
+- **OpenAI 发布图像模型 Images 2.6**：新版带来更快的图像生成、GIF 创作、更精准的编辑能力，以及覆盖 ChatGPT、Codex 与 API 的新 API 控制项。（[OpenAI](https://openai.com/index/introducing-images-2-6)）
+- **DevRev 用 GPT-6.1 Sol 打造自主自助服务**：DevRev 借 GPT-6.1 Sol 驱动其 Computer 与 Operator 产品，在推理、速度与成本间取得平衡，服务企业场景。（[OpenAI](https://openai.com/index/devrev-enterprise-self-service)）
+- **OpenAI 任命 Jill Hazelbaker 为首席企业事务官**：Jill Hazelbaker 将加入 OpenAI，领导公司的全球传播与企业定位工作。（[OpenAI](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)）
 
 ## 2026-11-08
 
