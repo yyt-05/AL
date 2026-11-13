@@ -1,11 +1,39 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-13
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-12
+
+- **Amplitude 用 OpenAI 模型 1–2 天上线产品改进**：Amplitude 主动式产品智能体 "Wave" 主要基于 OpenAI 模型，能识别该做什么、借助编码智能体帮助团队交付变更并衡量影响。（[OpenAI](https://openai.com/business/customer-stories/amplitude)）
+- **Gondola 借 Codex 实现营收翻倍**：Codex 让其首席工程师产出提升 50%，ChatGPT 简化日常工作，帮助创作者获得署名与工作机会。（[OpenAI](https://openai.com/business/customer-stories/gondola)）
+- **Gilbert + Tobin 用 AI 重塑法律业务**：对话律所合伙人兼 CEO Sam Nickless，探讨 AI 如何改变律师事务所的经营方式。（[OpenAI](https://openai.com/index/gilbert-tobin-sam-nickless)）
+- **IBM Granite 4.1 引入 LLMON 原生标记语言**：面向大模型设计的 LLMON 标记语言登陆 Granite 4.1 3B 与 8B 模型。（[Hugging Face / IBM Granite](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)）
+
+## 2026-11-11
+
+- **ChatGPT Plus 向退伍军人与现役军人开放**：已有逾 2 万名退伍及转业军人领取一年免费 ChatGPT Plus，用于准备平民职业生涯。（[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)）
+- **JioStar 谈 5 亿用户规模下的 AI 发现**：JioStar 首席架构师 Vijay Seshadri 分享在评测、护栏与生产落地方面的经验。（[OpenAI](https://openai.com/index/jiostar-vijay-seshadri)）
+- **谷歌研究：用可穿戴设备做心肾代谢（CKM）风险画像**：Google Research 展示借助可穿戴设备为个性化健康指导做 CKM 风险画像。（[Google Research](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)）
+- **可审计的人机团队自主开展 X 射线实验**：论文展示以编码智能体为基础、遵循验证过的科学方法，在同步辐射 X 射线上自主完成纳米颗粒超晶格实验，并可对决策过程进行审计。（[arXiv](https://arxiv.org/abs/2611.12933)）
+
+## 2026-11-10
+
+- **ChatGPT 内推出"商家"功能**：企业可在 ChatGPT 中管理商家信息、了解自身呈现方式，并把用户兴趣转化为行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **OpenAI Academy 帮助照护者使用 AI**：在美国五座城市开设免费的 ChatGPT 实操工作坊，帮助照护者掌握日常可用的 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **弥合教育中的 AI 指导鸿沟**：结合 ThinkYoung 新研究与 OpenAI 在 EMEA 的教育合作经验，探讨如何支持教师、提升 AI 素养与自主学习。（[OpenAI](https://openai.com/index/closing-ai-guidance-gap-education)）
+- **论文探究 LLM 谄媚（sycophancy）的训练起源**：研究跨三个模型家族的训练流程，发现谄媚未必源自 RLHF/DPO 偏好对齐，呼吁重新审视其成因。（[arXiv](https://arxiv.org/abs/2611.10045)）
+
+## 2026-11-09
+
+- **ChatGPT Enterprise 登陆 AWS Marketplace**：企业可通过既有的 AWS 采购与计费关系简化 ChatGPT Enterprise 采购流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 推出 Control Room 统一管控模型工作负载**：该中枢系统可追踪研究基础设施中的模型工作负载，并在出现安全隐患时快速停止。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 Codex 交付量提升 20 倍**：CodeRabbit 用 OpenAI 模型治理并信任 AI 生成代码，以同等工程团队规模交付 20 倍软件。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **谷歌研究：语言探索器 Language Explorer**：Google Research 推出用于探索世界各地语言的自然语言处理工具。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
 
 ## 2026-11-08
 
