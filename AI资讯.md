@@ -1,11 +1,36 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-12
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-11
+
+- **英伟达董事会据报酝酿撤换 CEO 黄仁勋，股价下挫**：报道称英伟达董事会正准备罢免首席执行官黄仁勋，消息传出后公司股价下跌，围绕黄仁勋的丑闻持续发酵。（[TechCrunch](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)）
+- **OpenAI 季度营收据报首次突破 100 亿美元**：有报道称 OpenAI 单季营收历史上首次跨过 100 亿美元大关。（[TechCrunch](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)）
+- **英国 AI 芯片公司 Fractile 完成 7.2 亿美元融资**：Fractile 获得 7.2 亿美元新一轮融资，在 AI 芯片竞赛中抢得先机。（[TechCrunch](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)）
+- **CoreWeave 借客户预付款与短期合同为 AI 增长融资**：CoreWeave 转向客户预付款和缩短合同期限的方式，为其 AI 业务扩张筹措资金。（[TechCrunch](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)）
+- **谷歌 Gemini Decision 1 单次 API 调用可评分上千问题**：谷歌推出的 Gemini Decision 1 模型可在一次 API 调用中对多达 1000 个问题进行评分，面向大规模决策场景。（[VentureBeat](https://venturebeat.com/technology/googles-gemini-decision-1-model-scores-up-to-1-000-questions-in-one-api-call)）
+- **TrustedRouter 推出三款加密"融合"模型**：新模型将多个大语言模型组合在一起，其中一款仅采用美国本土模型提供方，主打加密与合规。（[VentureBeat](https://venturebeat.com/technology/trustedrouter-launches-three-new-encrypted-fusion-models-that-combine-multiple-llms-including-one-exclusively-with-u-s-model-providers)）
+
+## 2026-11-10
+
+- **OpenAI 收购旅行创业公司 Odessia**：OpenAI 收购由 Sonder 创始人创办的旅行初创企业 Odessia。（[TechCrunch](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)）
+- **Anthropic 七位创始人 IPO 中各套现约 2.5 亿美元**：报道称在拟议的 IPO 中，Anthropic 的全部七位创始人将每人套现约 2.5 亿美元。（[TechCrunch](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)）
+- **Anthropic 推出 Claude Meetings**：新功能可将职场讨论自动转化为计划与任务，提升会议产出效率。（[TechCrunch](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)）
+- **Oura 以 6.25 亿美元收购 AI 原生初级诊疗公司 Counsel Health**：智能戒指厂商 Oura 宣布收购 AI 原生的初级诊疗创业公司 Counsel Health。（[TechCrunch](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)）
+- **OpenAI 允许商家在 ChatGPT 中认领企业并配置智能销售代表**：商家可在 ChatGPT 中认领自己的业务，并设置可执行任务的智能体化 AI 客户销售代表。（[VentureBeat](https://venturebeat.com/technology/openai-lets-you-claim-your-business-in-chatgpt-and-set-up-a-custom-agentic-ai-customer-sales-rep)）
+- **PayPal：AI 助手准确率不换模型从 43% 升至 95%**：PayPal 表示其 AI 助手在未更换底层模型的情况下，将准确率从 43% 提升到 95%。（[VentureBeat](https://venturebeat.com/orchestration/paypal-says-its-ai-assistant-went-from-43-to-95-accuracy-without-changing-the-model)）
+- **谷歌 Gemini 4 Carbon 公开可用，API 价格低于 Claude**：Gemini 4 Carbon 正式公开发布，在 API 价格上低于 Claude Fable 5.2 与 Opus 5.5。（[VentureBeat](https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price)）
+
+## 2026-11-09
+
+- **Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2**：两款新模型刷新多项基准纪录，同时将 API 成本降低约 20%。（[Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)、[VentureBeat](https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction)）
+- **美团开源 LongCat-2.5 视觉大模型**：美团以宽松的 MIT 许可证发布带视觉能力的 LongCat-2.5 大模型开源权重。（[VentureBeat](https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license)）
+- **Waymo Robotaxi 修复软件后仍违规超越校车**：美国监管机构称，在一次软件修复之后，Waymo 的自动驾驶出租车仍持续违规超越停靠的校车。（[TechCrunch](https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/)）
 
 ## 2026-11-08
 
