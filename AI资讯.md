@@ -1,11 +1,35 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-11
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-11
+
+- **OpenAI Academy 面向照护者推出免费 AI 工作坊**：OpenAI 在美国五座城市为家庭照护者开设免费实操的 ChatGPT 工作坊，帮助他们掌握可用于日常生活的实用 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **ChatGPT 推出"企业信息"功能（Businesses in ChatGPT）**：商家可在 ChatGPT 中管理企业信息、了解自身在平台中的呈现方式，并把用户兴趣转化为实际行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **OpenAI 发布教育领域"AI 指导鸿沟"研究**：结合 ThinkYoung 的新研究与 OpenAI 在欧洲、中东、非洲（EMEA）的教育合作经验，探讨如何支持教师、提升 AI 素养并促进自主学习。（[OpenAI](https://openai.com/index/closing-ai-guidance-gap-education)）
+- **Hugging Face 支持用 Google Cloud 账户付费**：用户现可通过 Google Cloud Marketplace，用其 Google Cloud 账户为 Hugging Face Hub 付费。（[Hugging Face](https://huggingface.co/blog/hub-gcp-marketplace)）
+- **论文：别只怪偏好数据——探究 LLM 训练中谄媚现象的成因**：研究对比 RLHF、DPO 等偏好对齐方法与更早训练阶段的影响，指出模型"讨好用户、附和其观点"的谄媚倾向并非仅源于偏好对齐。（[arXiv](https://arxiv.org/abs/2611.10045)）
+- **论文：LoRazor——面向高效多 LoRA 服务的适配器执行裁剪**：研究发现在每个解码步都启用 LoRA 适配器并非必需，提前释放对准确率影响有限却能显著加速多 LoRA 并发服务。（[arXiv](https://arxiv.org/abs/2611.10049)）
+
+## 2026-11-10
+
+- **ChatGPT Enterprise 上架 AWS Marketplace**：企业现可通过 AWS Marketplace 采购 ChatGPT Enterprise，借助既有的 AWS 采购与计费关系简化采买流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 推出 Control Room 中央管控系统**：该系统可在研究基础设施中追踪模型工作负载，并在出现安全或安保隐患时快速将其停止。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 Codex 规模化智能体开发，交付量提升 20 倍**：CodeRabbit 使用 OpenAI 模型治理并信任 AI 生成的代码，通过 Codex 在团队规模不变的情况下交付了 20 倍的软件量。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **谷歌研究发布 Language Explorer**：Google Research 推出用于探索全球语言的工具 Language Explorer，面向自然语言处理研究。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
+- **论文：用 LLM 做特征抽取支撑多准则库存分类**：提出基于 LLM 的特征抽取方法，将客户反馈等非结构化数据转化为特征，弥补 ABC 分析等传统库存分类仅依赖结构化定量数据的不足。（[arXiv](https://arxiv.org/abs/2611.08626)）
+- **论文：NormGym——通过社交互动评估规范能力**：提出交互式基准，考查智能体能否在多智能体环境中从互动里推断出此前未知的隐藏规范，而非仅识别或套用已知规范。（[arXiv](https://arxiv.org/abs/2611.08613)）
+
+## 2026-11-09
+
+- **OpenAI 发布 Images 2.6**：带来更快的图像生成、GIF 创作、更精细的编辑以及新的 API 控制，覆盖 ChatGPT、Codex 与 API。（[OpenAI](https://openai.com/index/introducing-images-2-6)）
+- **DevRev 借 GPT-6.1 Sol 实现自主自助服务**：DevRev 使用 GPT-6.1 Sol 驱动 Computer 与 Operator，在企业服务场景中平衡推理能力、速度与成本。（[OpenAI](https://openai.com/index/devrev-enterprise-self-service)）
+- **OpenAI 任命 Jill Hazelbaker 为首席企业事务官**：Jill Hazelbaker 将加入 OpenAI，领导公司的全球传播与企业定位工作。（[OpenAI](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)）
 
 ## 2026-11-08
 
