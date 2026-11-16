@@ -1,11 +1,57 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-16
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-15
+
+- **OpenAI 向格点理论迈出一步**：OpenAI 介绍了标准模型的候选非微扰格点定义，并说明 GPT-6 Astra 如何将这一想法转化为详细证明。（[OpenAI](https://openai.com/index/step-toward-defining-the-standard-model)）
+- **OpenAI 推出科学博客**：新的 OpenAI 科学博客将分享研究者借助 AI 推进科学发现的新发现、实用方法与一线记录。（[OpenAI](https://openai.com/index/our-new-blog-for-science)）
+
+## 2026-11-13
+
+- **OpenAI 发布 ChatGPT Wallet**：这是一种安全方式，让 ChatGPT Work、Codex 与 dots 中的智能体在用户授权并保留现有银行卡保护的前提下完成购买。（[OpenAI](https://openai.com/index/introducing-chatgpt-wallet)）
+- **Shield 借 OpenAI 交接遗留门户工作**：Shield 的 Forge 智能体帮助 IT 技术人员在遗留门户中导航与交接工作，让技术人员专注于需要人工判断的问题。（[OpenAI](https://openai.com/business/customer-stories/shield)）
+- **llama.cpp 发布 v1.0.0**：本地 AI 生态的奠基版本正式发布，为本地推理提供更稳固的基础。（[Hugging Face / ggml-org](https://huggingface.co/blog/ggml-org/llama-cpp-v1)）
+- **Allen AI 推出 XYBench**：该基准关注"问题背后的真实问题"，评估模型是否能帮助解决用户真正想解决的问题。（[Hugging Face / AI2](https://huggingface.co/blog/allenai/xybench)）
+- **arXiv：清理智能体历史并不总有益**：研究指出当错误仍存在于真实世界状态中时，单纯修复智能体的历史记录反而可能带来损害。（[arXiv](https://arxiv.org/abs/2611.14654)）
+
+## 2026-11-12
+
+- **OpenAI 承诺投入 200 万美元研究 AI 与儿童安全**：以"儿童优先宣言"支持衡量青少年面临风险与机遇的共享工具。（[OpenAI](https://openai.com/index/children-first-declaration)）
+- **Gilbert + Tobin 用 AI 重塑法律业务**：OpenAI 对话律所合伙人兼 CEO Sam Nickless，探讨 AI 如何改变法律服务。（[OpenAI](https://openai.com/index/gilbert-tobin-sam-nickless)）
+- **Amplitude 借 OpenAI 实现 1–2 天交付产品改进**：其主动式产品智能体 Wave 识别开发优先级，协助团队用编码智能体交付并衡量影响。（[OpenAI](https://openai.com/business/customer-stories/amplitude)）
+- **Gondola 借 Codex 营收翻倍**：Codex 将其主程效率提升 50%，ChatGPT 简化日常工作。（[OpenAI](https://openai.com/business/customer-stories/gondola)）
+- **IBM Granite 4.1 引入 LLMON 标记语言**：面向 LLM 原生的标记语言 LLMON 现已登陆 Granite 4.1 的 3B 与 8B 模型。（[Hugging Face / IBM Granite](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)）
+
+## 2026-11-11
+
+- **OpenAI Academy 面向照护者推出 AI 工作坊**：在美国五座城市为照护者提供免费动手实操的 ChatGPT 工作坊，帮助他们掌握日常 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **ChatGPT 推出"商家"功能**：企业可管理商家信息、了解自己在 ChatGPT 中的呈现方式，并将用户兴趣转化为行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **OpenAI 呼吁弥合教育中的 AI 指导鸿沟**：结合 ThinkYoung 研究与 EMEA 教育合作经验，探讨如何支持教师、提升 AI 素养与自主学习。（[OpenAI](https://openai.com/index/closing-ai-guidance-gap-education)）
+- **退伍军人获免费一年 ChatGPT Plus**：超过 2 万名退伍与转业军人领取了一年免费 ChatGPT Plus，用于准备平民职业生涯。（[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)）
+- **arXiv：别只怪偏好——审视 LLM 训练中谄媚的成因**：研究发现谄媚并非仅源于 RLHF/DPO 偏好对齐，其成因可追溯到更早的训练阶段。（[arXiv](https://arxiv.org/abs/2611.10045)）
+
+## 2026-11-10
+
+- **ChatGPT Enterprise 上架 AWS Marketplace**：组织可借助现有 AWS 采购与结算关系简化 ChatGPT Enterprise 的采购流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 公开 Control Room 系统**：该中枢系统可追踪研究基础设施中的模型工作负载，并在出现安全或安保隐患时迅速将其停止。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 Codex 交付量提升 20 倍**：CodeRabbit 用 OpenAI 模型治理并信任 AI 生成的代码，借 Codex 以同等工程团队交付 20 倍软件。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **新加坡航空借 OpenAI 升级出行与办公**：借助 OpenAI 模型与 API 增强客服、出行发现与员工生产力，其 Kris 聊天机器人的 CSAT 翻倍。（[OpenAI](https://openai.com/index/singapore-airlines-travel-work)）
+- **OpenAI 与 Upwork 研究 AI 对自由职业的影响**：新研究发现自由职业需求结构变化、新技能组合出现，以及 AI 相关项目预算与工时增加。（[OpenAI](https://openai.com/index/ai-effect-on-freelance-work)）
+- **Cogent 与 OpenAI 共建企业级网络防御"工厂"**：Cogent 将 OpenAI 模型与企业上下文结合，用智能体自动修复漏洞。（[OpenAI](https://openai.com/index/cogent-security)）
+- **NVIDIA 发布 Nemotron 日本金融合成数据集**：该合成数据集刻画日本人口结构与金融语境，助力本地化模型训练。（[Hugging Face / NVIDIA](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)）
+- **谷歌研究发布 Language Explorer**：新工具用于探索世界各地的语言，聚焦自然语言处理。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
+
+## 2026-11-09
+
+- **Kuken Industries 数分钟检索 70 年图纸**：借助 OpenAI API 检索 70 年的冷却塔图纸，工程师找到维修图纸的时间从近一小时降至 4.5 分钟。（[OpenAI](https://openai.com/index/kuken)）
+- **arXiv：NormGym 通过社交互动评估规范能力**：这一交互式基准要求新加入者在完成自身任务的同时，从多智能体互动中推断隐藏的任意规范。（[arXiv](https://arxiv.org/abs/2611.08613)）
+- **arXiv：基于 LLM 的多准则库存分类特征提取**：论文提出用 LLM 从客户反馈等非结构化数据中提取特征，改进传统的 ABC/多准则库存分类。（[arXiv](https://arxiv.org/abs/2611.08626)）
 
 ## 2026-11-08
 
