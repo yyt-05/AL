@@ -1,11 +1,51 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-14
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-13
+
+- **OpenAI 推出 ChatGPT Wallet**：ChatGPT Work、Codex 与 dots 中的智能体可在用户授权下安全完成购买，并沿用现有银行卡的安全保护。（[OpenAI](https://openai.com/index/introducing-chatgpt-wallet)）
+- **Shield 借 OpenAI 托管遗留门户运维**：Shield 用 OpenAI 帮助 IT 技术人员移交遗留门户中的工作，其 Forge 智能体自动在系统中导航，让技术人员专注于需人工判断的问题。（[OpenAI](https://openai.com/business/customer-stories/shield)）
+- **llama.cpp 发布 v1.0.0**：本地 AI 生态的基础设施迎来 1.0 正式版，为端侧推理打下更稳固的基础。（[Hugging Face / ggml-org](https://huggingface.co/blog/ggml-org/llama-cpp-v1)）
+- **AI2 发布 XYBench 基准**：Allen AI 推出基准，关注"问题背后的真正诉求"，考察模型能否帮到提问者的实际目标。（[Hugging Face / AI2](https://huggingface.co/blog/allenai/xybench)）
+- **谷歌研究：Antigravity /teamwork 助力科学与工程**：Google Research 介绍 Antigravity 的 /teamwork 功能如何推进科学与工程协作。（[Google Research](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)）
+
+## 2026-11-12
+
+- **OpenAI 承诺投入 200 万美元支持儿童安全研究**：OpenAI 发布"儿童优先宣言"，资助关于 AI 与儿童安全的研究，支持衡量青少年所面临风险与机遇的共享工具。（[OpenAI](https://openai.com/index/children-first-declaration)）
+- **Gilbert + Tobin 用 AI 重塑法律业务**：OpenAI 对话律所高管 Sam Nickless，探讨 AI 如何改变法律服务的运作方式。（[OpenAI](https://openai.com/index/gilbert-tobin-sam-nickless)）
+- **Amplitude 借 OpenAI 实现 1–2 天上线产品改进**：Amplitude 的主动式产品智能体 Wave 以 OpenAI 模型为核心，识别要做什么、协助团队用编码智能体发布改动并衡量影响。（[OpenAI](https://openai.com/business/customer-stories/amplitude)）
+- **俄亥俄州立与微软共建 Azure 智慧医院**：为期五年的合作将该学术医疗系统的临床、科研与教育运营迁移至 Azure 云与 AI 工具。（[AI News](https://www.artificialintelligence-news.com/news/ohio-state-and-microsoft-launch-azure-smart-hospital/)）
+- **联合航空与捷蓝在 AI 订票上走不同路线**：两大航司对 AI 订票智能体采取截然不同的部署策略。（[AI News](https://www.artificialintelligence-news.com/news/united-airlines-jetblue-ai-booking-agents/)）
+- **IBM Granite 4.1 引入 LLMON 标记语言**：面向 LLM 原生的标记语言 LLMON 已登陆 Granite 4.1 的 3B 与 8B 模型。（[Hugging Face / IBM Granite](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)）
+
+## 2026-11-11
+
+- **OpenAI 向老兵与现役军人提供一年免费 ChatGPT Plus**：已有逾 2 万名退伍与转业军人领取福利，用于为转入民用职场做准备。（[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)）
+- **JioStar 谈 5 亿用户规模下的 AI 发现**：JioStar 架构师 Vijay Seshadri 分享在 5 亿用户规模上做 AI 内容发现的评测、护栏与落地经验。（[OpenAI](https://openai.com/index/jiostar-vijay-seshadri)）
+- **纽约在 SUNY 宾汉顿设立前沿 AI 中心**：该州成立研究中心，独立测试前沿 AI 系统。（[AI News](https://www.artificialintelligence-news.com/news/new-york-launches-frontier-ai-centre-suny-binghamton/)）
+- **论文：别只怪偏好数据——LLM 训练中谄媚现象的起源**：研究对比 RLHF/DPO 与更早训练阶段，发现谄媚（sycophancy）并非仅由偏好对齐引入。（[arXiv](https://arxiv.org/abs/2611.10045)）
+
+## 2026-11-10
+
+- **OpenAI Academy 帮助照护者在日常中用好 AI**：OpenAI 在美国五座城市为照护者带来免费的 ChatGPT 实操工作坊，培养实用 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **ChatGPT 推出"企业信息"（Businesses in ChatGPT）**：商家可管理自身信息、了解在 ChatGPT 中的展示情况，并把用户兴趣转化为行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **Anthropic 启动 IPO 路演**：Anthropic 就拟议的首次公开募股（出售 A 类普通股）启动路演。（[Anthropic](https://www.anthropic.com/news/roadshow-launch)）
+- **谷歌云在预览阶段推出 Gemini for Healthcare**：面向 Gemini Enterprise 客户推出专为医疗打造的智能体式 AI 系统。（[AI News](https://www.artificialintelligence-news.com/news/google-cloud-launches-gemini-for-healthcare-in-preview/)）
+- **可付费用 Google Cloud 账户结算 Hugging Face Hub**：Hugging Face 支持通过 Google Cloud 账户为 Hub 服务付费。（[Hugging Face](https://huggingface.co/blog/hub-gcp-marketplace)）
+
+## 2026-11-09
+
+- **Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2**：旗舰模型面向高难度技术领域，号称"在编程、金融与科学上树立新标杆"。（[Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-2)）
+- **ChatGPT Enterprise 上架 AWS Marketplace**：企业可借助既有的 AWS 采购与计费关系简化 ChatGPT Enterprise 的采购流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 发布 Control Room 工作负载管控系统**：Control Room 可跨研究基础设施追踪模型工作负载，并在出现安全或安保顾虑时迅速中止。（[OpenAI](https://openai.com/index/control-room)）
+- **Google.org 向 Clalit 拨款 200 万美元推动医疗语音 AI**：资助为以色列医疗服务开发语音驱动的 AI 助手。（[AI News](https://www.artificialintelligence-news.com/news/google-org-grants-clalit-2m-for-voice-ai-in-healthcare/)）
+- **谷歌研究：用 Language Explorer 探索世界语言**：Google Research 发布自然语言处理工具，用于探索世界各地语言。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
 
 ## 2026-11-08
 
