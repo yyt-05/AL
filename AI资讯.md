@@ -1,11 +1,63 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-15
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-15
+
+- **新加坡航空借 OpenAI 技术升级出行与办公体验**：新航使用 OpenAI 模型与 API 强化客户支持、旅行发现与员工生产力，其 Kris 聊天机器人客户满意度（CSAT）翻倍。（[OpenAI](https://openai.com/index/singapore-airlines-travel-work)）
+- **OpenAI 与 Upwork 研究 AI 对自由职业的影响**：《前沿工作》研究发现自由职业需求结构正在变化，出现新的技能组合，AI 相关项目的预算更高、工时更多。（[OpenAI](https://openai.com/index/ai-effect-on-freelance-work)）
+- **Cogent 携手 OpenAI 为企业打造"网络防御工厂"**：Cogent 将 OpenAI 模型与企业上下文结合，用智能体自动修复漏洞。（[OpenAI](https://openai.com/index/cogent-security)）
+
+## 2026-11-14
+
+- **OpenAI 推出 ChatGPT Wallet**：这是一种安全支付方式，让 ChatGPT Work、Codex 与 dots 中的智能体在用户授权并沿用现有银行卡保护的前提下完成购买。（[OpenAI](https://openai.com/index/introducing-chatgpt-wallet)）
+- **Shield 借 OpenAI 助 IT 技术员交接遗留系统工作**：其 Forge 智能体可在旧门户系统中自动导航，让技术员专注于需要判断力的问题。（[OpenAI](https://openai.com/business/customer-stories/shield)）
+- **OpenAI 投入 200 万美元支持儿童安全研究**：公司承诺资助 AI 与儿童安全研究，推动共享工具以衡量青少年面临的风险与机遇。（[OpenAI](https://openai.com/index/children-first-declaration)）
+- **llama.cpp 发布 v1.0.0**：本地 AI 生态迎来更稳固的基础版本。（[Hugging Face / ggml-org](https://huggingface.co/blog/ggml-org/llama-cpp-v1)）
+- **AI2 推出 XYBench**：新基准聚焦"问题背后的真实需求"，评估模型能否帮到提问者的根本诉求。（[Hugging Face / AI2](https://huggingface.co/blog/allenai/xybench)）
+- **arXiv：清理智能体历史并非总有益**：论文指出当"世界状态"仍保留错误时，仅修正历史记录反而可能损害表现。（[arXiv](https://arxiv.org/abs/2611.14654)）
+
+## 2026-11-13
+
+- **Amplitude 借 OpenAI 实现 1–2 天交付产品改进**：其主动式产品智能体 Wave 主要构建于 OpenAI 模型之上，负责识别要做什么、协助团队用编码智能体交付变更并衡量影响。（[OpenAI](https://openai.com/business/customer-stories/amplitude)）
+- **Gondola 借 Codex 营收翻倍**：Codex 使其首席工程师产出提升 50%，ChatGPT 简化日常工作，帮助创意人才获得署名与就业机会。（[OpenAI](https://openai.com/business/customer-stories/gondola)）
+- **Holiday Extras 用 Codex 重新思考可构建的产品**：该公司借 Codex 把客户专长转化为更好的应用，提升预订转化率。（[OpenAI](https://openai.com/business/customer-stories/holidays-extras-codex)）
+- **IBM 将 LLMON 标记语言引入 Granite 4.1**：这一面向大模型原生的标记语言现已集成进 Granite 4.1 的 3B 与 8B 模型。（[Hugging Face / IBM](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)）
+- **谷歌推出 Antigravity /teamwork 功能推动科研与工程**：Google Research 介绍借助 Antigravity 的 /teamwork 功能加速科学与工程协作。（[Google Research](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)）
+
+## 2026-11-12
+
+- **Gilbert + Tobin 用 AI 重塑法律业务**：OpenAI 对话律所 Gilbert + Tobin 合伙人兼 CEO Sam Nickless，探讨 AI 如何改造法律业。（[OpenAI](https://openai.com/index/gilbert-tobin-sam-nickless)）
+- **ChatGPT Plus 面向退伍军人与现役军人**：逾 2 万名退伍与转业军人已领取一年免费 ChatGPT Plus，用于准备平民职业生涯。（[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)）
+- **JioStar 首席架构师谈 5 亿用户规模的 AI 发现**：Vijay Seshadri 分享在 5 亿用户规模下做 AI 内容发现的评测、护栏与生产化经验。（[OpenAI](https://openai.com/index/jiostar-vijay-seshadri)）
+- **谷歌研究：用可穿戴设备做心血管-肾脏-代谢（CKM）风险画像**：Google Research 展示借可穿戴设备进行 CKM 风险画像以支持个性化健康指导。（[Google Research](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)）
+- **arXiv：面向自主 X 射线实验的可审计人机团队**：论文用编码智能体基础设施，在同步辐射 X 射线上演示可审计的自主纳米粒子实验。（[arXiv](https://arxiv.org/abs/2611.12933)）
+
+## 2026-11-11
+
+- **OpenAI Academy 为照护者开设 AI 工作坊**：在美国五座城市提供免费实操 ChatGPT 工作坊，帮助照护者掌握日常 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **OpenAI 推出"ChatGPT 中的商家"功能**：商家可管理自身信息、了解自己在 ChatGPT 中的呈现方式，并将用户兴趣转化为行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **OpenAI 探讨弥合教育中的"AI 指导鸿沟"**：结合 ThinkYoung 新研究与 EMEA 教育合作经验，讨论如何支持教师、提升 AI 素养与自主学习。（[OpenAI](https://openai.com/index/closing-ai-guidance-gap-education)）
+- **arXiv：别只怪偏好数据——探究 LLM 谄媚的成因**：研究发现 RLHF/DPO 常被归咎，但谄媚在更早训练阶段已有迹象，需跨阶段比较。（[arXiv](https://arxiv.org/abs/2611.10045)）
+
+## 2026-11-10
+
+- **ChatGPT Enterprise 登陆 AWS Marketplace**：企业可借助现有 AWS 采购与计费关系简化 ChatGPT Enterprise 的采购流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 发布 Control Room 工作负载管控系统**：这一中央系统可追踪研究基础设施上的模型工作负载，并在出现安全或安保隐患时快速将其停止。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 OpenAI 规模化智能体式软件开发**：CodeRabbit 用 OpenAI 模型治理并信任 AI 生成代码，借 Codex 以同等工程团队交付量提升 20 倍。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **谷歌研究：用 Language Explorer 探索世界语言**：Google Research 发布面向自然语言处理的世界语言探索工具。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
+- **arXiv：NormGym 评测社会交互中的规范能力**：新基准要求"新来者"在多智能体环境中边做任务边推断隐藏规范，而非仅套用已知规则。（[arXiv](https://arxiv.org/abs/2611.08613)）
+
+## 2026-11-09
+
+- **OpenAI 发布 Images 2.6**：带来更快的图像生成、GIF 制作、更精确的编辑，并在 ChatGPT、Codex 与 API 中新增控制项。（[OpenAI](https://openai.com/index/introducing-images-2-6)）
+- **DevRev 借 GPT-6.1 Sol 实现自主自助服务**：DevRev 用 GPT-6.1 Sol 驱动 Computer 与 Operator，在推理、速度与成本间取得平衡，服务企业场景。（[OpenAI](https://openai.com/index/devrev-enterprise-self-service)）
+- **OpenAI 任命 Jill Hazelbaker 为首席企业事务官**：她将负责公司的全球传播与企业定位。（[OpenAI](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)）
 
 ## 2026-11-08
 
