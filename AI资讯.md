@@ -1,11 +1,70 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-08
+> 最后更新：2026-11-17
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-16
+
+- **OpenAI 向全球科研人员开放前沿模型**：OpenAI 扩展"面向学术研究者的 ChatGPT"计划，将为全球 20 万名研究人员免费提供其前沿模型访问权限。（[OpenAI](https://openai.com/index/expanding-chatgpt-for-academic-researchers)）
+- **OpenAI 发布打击在线儿童性虐待的新工具**：OpenAI 推出新工具、实操指南与合作伙伴关系，帮助预防、检测并应对针对儿童的在线性剥削与虐待。（[OpenAI](https://openai.com/index/strengthening-online-child-safety)）
+- **OpenAI 披露科研前沿调研：1800 名科学家如何用 ChatGPT**：报告呈现超过 1800 名科学家在研究中使用 ChatGPT 的日常工作流、生产力提升与对科学发现的预期。（[OpenAI](https://openai.com/index/science-at-the-frontier)）
+- **Hugging Face 与 OpenRouter 联手简化开源权重模型部署**：双方合作让开源权重模型更易于运行和调用。（[Hugging Face](https://huggingface.co/blog/openrouter)）
+- **论文：LLM 智能体何时该"遗忘"？**：研究指出，在解析器出错删除查询关键事实时，硬性过滤过期记忆的做法会降低下游准确率。（[arXiv](https://arxiv.org/abs/2611.17338)）
+- **论文：端侧小型量化模型上的幻觉检测器排名审计**：面向从业者的可复现审计，检验幻觉检测器在 Phi-3-mini、Llama-3.2-3B 等 4bit 端侧小模型上的排名是否仍然成立。（[arXiv](https://arxiv.org/abs/2611.17339)）
+- **论文：LoRAWeaver——LoRA 表示空间中的定向适配器路由**：提出免训练方法，将适配器路由视为适配器输出空间中的表示对齐问题，支持动态新增适配器。（[arXiv](https://arxiv.org/abs/2611.17340)）
+
+## 2026-11-15
+
+- **OpenAI 向在格子上定义标准模型迈出一步**：探讨标准模型的非微扰格点定义候选方案，以及 GPT-6 Astra 如何帮助将这一想法转化为详细证明。（[OpenAI](https://openai.com/index/step-toward-defining-the-standard-model)）
+- **OpenAI 推出科学博客**：新的 OpenAI 科学博客将分享新发现、实用方法以及研究人员使用 AI 推进科学发现的一手记录。（[OpenAI](https://openai.com/index/our-new-blog-for-science)）
+
+## 2026-11-13
+
+- **OpenAI 推出 ChatGPT Wallet**：这是一种安全的支付方式，让 ChatGPT Work、Codex 与 dots 中的智能体在用户授权下、依托既有银行卡保护完成购买。（[OpenAI](https://openai.com/index/introducing-chatgpt-wallet)）
+- **Shield 借 OpenAI 帮技术人员交接遗留门户工作**：Shield 的 Forge 智能体自动在遗留系统中导航，让 IT 技术人员专注于需要人工判断的问题。（[OpenAI](https://openai.com/business/customer-stories/shield)）
+- **llama.cpp 发布 v1.0.0**：本地 AI 生态迎来更稳固的基础，正式发布 1.0.0 版本。（[Hugging Face / ggml](https://huggingface.co/blog/ggml-org/llama-cpp-v1)）
+- **AI2 发布 XYBench 基准**：关注"问题背后的真正问题"，评估模型是否能解决用户的实际意图。（[Hugging Face / AI2](https://huggingface.co/blog/allenai/xybench)）
+- **谷歌研究：Antigravity 的 /teamwork 推进科学与工程**：Google Research 介绍 Antigravity 的 /teamwork 功能如何助力科研与工程协作。（[Google Research](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)）
+- **论文：清理智能体历史在"世界仍留有错误"时反而有害**：研究在冻结智能体世界状态下编辑其历史，发现同样的正确内容是否有帮助取决于历史如何表述以及世界保留了什么。（[arXiv](https://arxiv.org/abs/2611.14654)）
+- **论文：Together Compiler——面向 AI 推理的持续编译**：针对模型频繁更新、架构多样、流量分布多变的工作负载，提出持续优化的编译方案。（[arXiv](https://arxiv.org/abs/2611.14681)）
+
+## 2026-11-12
+
+- **OpenAI 承诺投入 200 万美元支持 AI 与儿童安全研究**：该工作将支持用于衡量青少年风险与机遇的共享工具（"儿童优先宣言"）。（[OpenAI](https://openai.com/index/children-first-declaration)）
+- **Gilbert + Tobin 用 AI 重塑法律业务**：与该律所合伙人兼 CEO Sam Nickless 的对谈，探讨 AI 如何改变法律服务。（[OpenAI](https://openai.com/index/gilbert-tobin-sam-nickless)）
+- **IBM 发布 LLMON：面向 LLM 的原生标记语言**：现已集成进 Granite 4.1 的 3B 与 8B 模型。（[Hugging Face / IBM](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)）
+- **论文：面向自主 X 射线实验的可审计人机团队**：利用编码智能体基础设施，在人类定义的演化目标下自主开展同步辐射 X 射线实验，并支持完整决策审计。（[arXiv](https://arxiv.org/abs/2611.12933)）
+- **论文：EarthRecord——用多模态智能体解读四十年卫星影像的地表变化**：基于 56 个站点四十年的 Landsat、MODIS、VIIRS、Sentinel-2 原始档案构建基准，评估智能体的地表变化分析能力。（[arXiv](https://arxiv.org/abs/2611.12934)）
+
+## 2026-11-11
+
+- **超 2 万名退伍军人领取免费一年 ChatGPT Plus**：OpenAI 面向退伍军人与转业军人提供免费一年 Plus，助其准备平民职业生涯。（[OpenAI](https://openai.com/index/chatgpt-plus-for-veterans)）
+- **JioStar 首席架构师谈 5 亿用户规模下的 AI 发现**：Vijay Seshadri 分享在评测、护栏与规模化落地方面的经验。（[OpenAI](https://openai.com/index/jiostar-vijay-seshadri)）
+- **论文：别全怪偏好——审视 LLM 训练中阿谀倾向的产生**：研究发现模型"奉承讨好"的阿谀倾向并非仅源于 RLHF/DPO 偏好对齐，还与更早的训练阶段有关。（[arXiv](https://arxiv.org/abs/2611.10045)）
+- **论文：LoRazor——为高效多 LoRA 服务精简适配器执行**：发现并非每个解码步都需启用 LoRA 适配器，提前释放可在几乎不损精度的情况下显著加速。（[arXiv](https://arxiv.org/abs/2611.10049)）
+
+## 2026-11-10
+
+- **ChatGPT Enterprise 上架 AWS Marketplace**：企业可借助既有 AWS 采购与计费关系简化采购流程。（[OpenAI](https://openai.com/index/chatgpt-enterprise-aws-marketplace)）
+- **OpenAI 披露 Control Room 中央管控系统**：该系统可跨研究基础设施追踪模型工作负载，并在出现安全或安保顾虑时迅速中止。（[OpenAI](https://openai.com/index/control-room)）
+- **CodeRabbit 借 Codex 规模化智能体开发，交付量提升 20 倍**：CodeRabbit 用 OpenAI 模型治理并信任 AI 生成代码，以同等工程团队交付 20 倍软件。（[OpenAI](https://openai.com/index/coderabbit-codex-daybreak)）
+- **OpenAI 发布自由职业研究：与 Upwork 合作**：研究发现自由职业需求结构变化、出现新的技能组合，AI 相关项目预算更高、工时更长。（[OpenAI](https://openai.com/index/ai-effect-on-freelance-work)）
+- **新加坡航空用 OpenAI 技术提升旅行与办公体验**：借助 OpenAI 模型与 API 强化客服、旅行发现与员工生产力，其 Kris 聊天机器人的 CSAT 翻倍。（[OpenAI](https://openai.com/index/singapore-airlines-travel-work)）
+- **Cogent 与 OpenAI 共建企业级"网络防御工厂"**：Cogent 将 OpenAI 模型与企业上下文结合，用智能体自动修复漏洞。（[OpenAI](https://openai.com/index/cogent-security)）
+- **OpenAI Academy 面向照护者推出免费 ChatGPT 工作坊**：在美国五座城市为照护者提供实操工作坊，帮助其掌握日常 AI 技能。（[OpenAI](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)）
+- **ChatGPT 内推出"商家（Businesses）"功能**：商家可管理商业信息、了解自身在 ChatGPT 中的呈现，并将用户兴趣转化为行动。（[OpenAI](https://openai.com/index/introducing-businesses-chatgpt)）
+- **谷歌研究：用 Language Explorer 探索全球语言**：Google Research 发布面向自然语言处理的全球语言探索工具。（[Google Research](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)）
+
+## 2026-11-09
+
+- **Kuken Industries 几分钟检索 70 年图纸**：借助 OpenAI API 检索 70 年的冷却塔图纸，工程师找到维修图纸的时间从近一小时降至 4.5 分钟。（[OpenAI](https://openai.com/index/kuken)）
+- **论文：NormGym——通过社会互动评估规范能力**：提出交互式基准，要求"新来者"在完成自身任务的同时，从多智能体社会互动中推断隐藏且任意的规范。（[arXiv](https://arxiv.org/abs/2611.08613)）
+- **论文：基于 LLM 的多准则库存分类特征抽取**：提出用 LLM 从客户反馈等非结构化来源抽取特征，弥补传统 ABC/MCIC 分类仅依赖结构化数据的不足。（[arXiv](https://arxiv.org/abs/2611.08626)）
+- **NVIDIA 发布日本金融合成数据集 Nemotron-Personas-Finance-Japan**：该合成数据集刻画日本人口结构与金融语境。（[Hugging Face / NVIDIA](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)）
 
 ## 2026-11-08
 
