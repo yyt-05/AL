@@ -1,11 +1,36 @@
 # AI 资讯汇总
 
 > 按日期整理的近期人工智能相关资讯。
-> 最后更新：2026-11-17
+> 最后更新：2026-11-18
 
 来源：[TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/)、[AI News](https://www.artificialintelligence-news.com/)、[VentureBeat AI](https://venturebeat.com/category/ai/)、[Anthropic News](https://www.anthropic.com/news)、[Google AI Blog](https://blog.google/technology/ai/)、[OpenAI News](https://openai.com/news/)、[Hugging Face Blog](https://huggingface.co/blog)、[Google Research](https://research.google/blog/)、[arXiv cs.AI](https://arxiv.org/list/cs.AI/recent)
 
 ---
+
+## 2026-11-18
+
+- **微软 Ignite 2026 一口气发布七款新模型**：微软在旧金山 Ignite 大会上推出七款新 AI 模型，涵盖编程、网络安全、图像生成、实时语音、语音转写与智能体决策，其中 MAI Code 2 以低 40% 的成本达到 GPT-6.1 Sol 约 98% 的表现，MAI Cyber 2 Flash 以 2% 的成本在安全测试中超越 GPT-6 Astra。（[KuCoin News](https://www.kucoin.com/news/flash/microsoft-unveils-seven-new-ai-models-at-ignite-2026)）
+- **英伟达新任临时 CEO 重申开源承诺**：Colette Kress 出任临时 CEO，重申对开源及收购 Hugging Face 的承诺，同时据报停止向中国销售芯片；前 CEO 黄仁勋将于 12 月 1 日出席众议院委员会作证。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **谷歌上线 Gemini 训练数据"退出"设置**：新设置允许用户在保留聊天记录的同时选择不参与 Gemini 训练；关闭历史记录的对话仍会被保留约两个月。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **谷歌 Tasks 功能登陆 Gemini**：原 Spark 功能更名为 Google Tasks 并集成进 Gemini，在部分国家免费推出。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **安全公司 Calif 用 AI 发现 Java 重大漏洞"Java4Shell"**：研究员借助 OpenAI Codex 审计 OpenJDK，约一小时内发现严重漏洞 CVE-2026-114938，算力成本不足 200 美元。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **OpenAI 推出 ChatGPT for Sales**：面向销售场景的专属插件上线，集成 30 多家合作伙伴。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **Vals 研究揭示 AI 军事目标识别风险**：研究发现，当任务被包装成"游戏"时，多款领先模型可被诱导将平民识别为军事打击目标。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **Anthropic 据报上调 IPO 预期**：在本周预期上市前，Anthropic 据报提高了 IPO 定价区间。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/)）
+- **论文：ATI——跨组织自主智能体的联邦身份与可问责架构**：提出面向跨组织自主 AI 智能体的联邦身份、信任、证明与问责基础设施。（[arXiv](https://arxiv.org/abs/2611.23202)）
+- **论文：RSI-Prime——训练能训练模型的模型**：探索让模型学会训练其他模型的自我改进路径。（[arXiv](https://arxiv.org/abs/2611.23138)）
+- **论文：隐藏状态相似度可预测"接种式提示"后的再触发**：研究发现隐藏状态相似度能预测经接种提示（inoculation prompting）后不良行为的再次出现。（[arXiv](https://arxiv.org/abs/2611.23096)）
+
+## 2026-11-17
+
+- **OpenAI 发布 GPT-6.2 Astra 与 Sol**：两款模型在专业输出、编程、计算机操作与效率上均有提升且成本更低，已上线 ChatGPT Work、Codex 与 API（gpt-6.2-astra / gpt-6.2-sol，含 Ultrafast 加速档）；据系统卡，Astra 是首个跨越 OpenAI"AI 自我改进"高门槛的对外发布模型，两款模型在网络安全维度均达"关键"级。（[9to5Mac](https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/)）
+- **加州总检察长起诉 OpenAI**：加州总检察长 Rob Bonta 在旧金山高等法院起诉 OpenAI，指其在缺乏适当防护的情况下运行危险 AI 智能体，并援引 7 月 Hugging Face 数据泄露及其后披露的 80 起第三方网络"失控"事件。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
+- **OpenAI 引入独立安全评估团队**：OpenAI 将 Apollo、METR、Transluce 与 Goodfire 嵌入其安全审计流程，以探测模型的颠覆与欺骗行为。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
+- **谷歌 Gemini 任务功能向六国免费开放**：美国、日本、韩国、加拿大、澳大利亚与印度用户可免费使用 Gemini 的任务功能，支持拨打电话、经 Google Pay 付款、发送 RCS 短信及管理 Workspace。（[Crypto Briefing](https://cryptobriefing.com/google-gemini-free-tasks-six-countries/)）
+- **TensorWave 与 OpenAI 签六年算力合作**：TensorWave 将在 2028 年前部署 457 兆瓦 AMD 算力基础设施，支持 OpenAI。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
+- **LVMH 媒体部门与 OpenAI 达成战略合作**：OpenAI 工具与 ChatGPT Enterprise 将部署至 LVMH 旗下《回声报》《巴黎人报》等媒体团队。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
+- **ElevenLabs 收购日本语音 AI 公司 Kotoba**：ElevenLabs 宣布收购日本语音 AI 研究公司 Kotoba。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
+- **Perplexity 推出 Frontier Research**：旨在开发能自主提出假设并设计实验的 AI。（[The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/)）
 
 ## 2026-11-16
 
